@@ -553,7 +553,7 @@ http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8
 http://4digital.ddns.net:11223/ts/0
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/vXHkWa3.png", SETANTA SPORTS 1
 http://92.43.140.200/s81/04.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/vVwVcHw/SETANTA2-BEARTV.png", SETANTA SPORTS 2
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/5eGiK85.png", SETANTA SPORTS 2
 http://92.43.140.200/s82/04.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg", Star Sports
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports?checkedby
