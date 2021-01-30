@@ -438,8 +438,6 @@ http://quangvinh997.duckdns.org:8889/udp/225.1.2.86:30120
 http://quangvinh997.duckdns.org:8889/udp/225.1.1.93:30120
 #EXTINF:-1 tvg-id="hbo" group-title="KÊNH QUỐC TẾ" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO HD (VIETSUB)
 http://quangvinh997.duckdns.org:8889/udp/225.1.4.90:30120
-#EXTINF:-1 tvg-id="hbo" group-title="KÊNH QUỐC TẾ" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO HD (Quốc Tế) (Chọn HW) 👉
-https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/jTJwiNo.png", HBO HITS
 http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/SJYAGsj.png", HBO FAMILY
@@ -810,7 +808,7 @@ https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
 
 #EXTINF:-1 group-title="CAMPUCHIA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/apsara_tv.png", APSARA TV
 http://36.37.252.114:888/Apple/OneTV-018/playlist.m3u8
-#EXTINF:-1 group-title="CAMPUCHIA" tvg-logo="https://i.imgur.com/8Bf5K9i.jpg", BAYON TV NEWS
+#EXTINF:-1 group-title="CAMPUCHIA" tvg-logo="https://i.imgur.com/8Bf5K9i.jpg", BAYON NEWS
 http://36.37.252.114:888/Apple/OneTV-012/playlist.m3u8
 #EXTINF:-1 group-title="CAMPUCHIA" tvg-logo="https://i.imgur.com/ay0WihO.png", BAYON TV
 http://36.37.252.114:888/Apple/OneTV-011/playlist.m3u8
