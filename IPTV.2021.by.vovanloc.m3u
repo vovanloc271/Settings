@@ -709,12 +709,12 @@ http://39.134.65.69:80/wh7f454c46tw99893247_1414083234/ottrrs.hl.chinamobile.com
 http://39.134.115.163:8080/PLTV/88888910/224/3221225740/index.m3u8
 #EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/yhUIeUs.jpg", HÀ BẮC
 http://39.134.116.30:8080/PLTV/88888910/224/3221225732/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bbzP8Zv.jpg" group-title="TRUNG QUỐC", HẢI NAM
+http://39.135.138.60:18890/PLTV/88888910/224/3221225722/index.m3u8
 #EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/nPffk5l.png", HẮC LONG GIANG
 http://39.134.115.163:8080/PLTV/88888910/224/3221225736/index.m3u8
 #EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/db/GXTV_logo.png", QUẢNG TÂY
 http://39.134.65.81:80/wh7f454c46tw3986412525_1796525468/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225622/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Hainan_Broadcasting_Satellite_TV_Station_Logo.png/100px-Hainan_Broadcasting_Satellite_TV_Station_Logo.png" group-title="TRUNG QUỐC", HẢI NAM
-http://39.135.138.60:18890/PLTV/88888910/224/3221225722/index.m3u8
 #EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/eSAHJOR.png", QUẢNG ĐÔNG
 http://39.134.65.65:80/wh7f454c46tw2600817756_1873210458/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225736/index.m3u8
 #EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Jiangsu_Broadcasting_Corporation_Logo.png", GIANG TÔ
