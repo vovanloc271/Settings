@@ -136,7 +136,7 @@ https://livecdn.fptplay.net/hda/vinhlong3_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://img.hplus.com.vn/355x200/poster/2018/06/04/269136-VinhPhuc.png", Vĩnh Phúc HD
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream_720p/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/DccSKmY.png", Yên Bái  HD
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/DccSKmY.png", Yên Bái HD
 https://yenbaitv.org.vn/hls/livestream.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/DccSKmY.png", Yên Bái SD
 https://livecdn.fptplay.net/sdc/yenbai_2000.stream/chunklist.m3u8
@@ -161,15 +161,15 @@ http://14.232.176.71:8889/rtp/232.84.3.140:8874
 
 #EXTINF:-1 tvg-id="antvhd" group-title="THỜI SỰ VÀ CHÍNH TRỊ" tvg-logo="https://i.imgur.com/kzKZm1L.png", An Ninh TV HD
 https://livecdn.fptplay.net/sdc/anninhtv_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="quoc_hoi_tv" group-title="THỜI SỰ VÀ CHÍNH TRỊ" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/17/KenhQuocHoi_logo.png", QUỐC HỘI | 1080p
+#EXTINF:-1 tvg-id="quoc_hoi_tv" group-title="THỜI SỰ VÀ CHÍNH TRỊ" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/17/KenhQuocHoi_logo.png", Quốc Hội | 1080p
 http://36.37.252.114:888/Apple/OneTV-106/playlist.m3u8
-#EXTINF:-1 tvg-id="quoc_hoi_tv" group-title="THỜI SỰ VÀ CHÍNH TRỊ" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/17/KenhQuocHoi_logo.png", QUỐC HỘI | 720p
+#EXTINF:-1 tvg-id="quoc_hoi_tv" group-title="THỜI SỰ VÀ CHÍNH TRỊ" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/17/KenhQuocHoi_logo.png", Quốc Hội | 720p
 http://113.164.225.140:1935/live/quochoitvlive.stream_720p/chunklist_w1307818628.m3u8
-#EXTINF:-1 tvg-id="quoc_phong_tv" group-title="THỜI SỰ VÀ CHÍNH TRỊ" tvg-logo="http://qpvn.vn/uploads/site/703a04fed6e5d0fb9aaf41941140ff3805c0ae9a.png", QUỐC PHÒNG VIỆT NAM HD
+#EXTINF:-1 tvg-id="quoc_phong_tv" group-title="THỜI SỰ VÀ CHÍNH TRỊ" tvg-logo="http://qpvn.vn/uploads/site/703a04fed6e5d0fb9aaf41941140ff3805c0ae9a.png", Quốc Phòng Việt Nam HD
 https://livecdn.fptplay.net/sdc/quocphongvnhd_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="nhan_dan_tv" group-title="THỜI SỰ VÀ CHÍNH TRỊ" tvg-logo="https://img.hplus.com.vn/1180x665/banner/2018/06/05/255092-Nhandan.png", NHÂN DÂN TV | 1080P
+#EXTINF:-1 tvg-id="nhan_dan_tv" group-title="THỜI SỰ VÀ CHÍNH TRỊ" tvg-logo="https://img.hplus.com.vn/1180x665/banner/2018/06/05/255092-Nhandan.png", Nhân Dân TV | 1080P
 http://36.37.252.114:888/Apple/OneTV-109/playlist.m3u8
-#EXTINF:-1 tvg-id="nhan_dan_tv" group-title="THỜI SỰ VÀ CHÍNH TRỊ" tvg-logo="https://img.hplus.com.vn/1180x665/banner/2018/06/05/255092-Nhandan.png", NHÂN DÂN TV | 720P
+#EXTINF:-1 tvg-id="nhan_dan_tv" group-title="THỜI SỰ VÀ CHÍNH TRỊ" tvg-logo="https://img.hplus.com.vn/1180x665/banner/2018/06/05/255092-Nhandan.png", Nhân Dân TV | 720P
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915633964.m3u8
 #EXTINF:-1 tvg-id="ttxvn" group-title="THỜI SỰ VÀ CHÍNH TRỊ" tvg-logo="https://i.imgur.com/ziUs8oD.png", VNews | 1080P
 http://36.37.252.114:888/Apple/OneTV-110/playlist.m3u8
@@ -190,23 +190,23 @@ https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda/htv7hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://i.imgur.com/r3Jiu5Q.png", HTV9 HD
 https://livecdn.fptplay.net/hda/htv9hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="HTV"  tvg-logo="https://i.imgur.com/ZkUUWWN.png", HTV THỂ THAO HD
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="HTV"  tvg-logo="https://i.imgur.com/ZkUUWWN.png", HTV Thể Thao HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="htvc_thuan_viet" group-title="HTV" tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2016-08-16/2581034-365940-logoc-th.png", HTVC THUẦN VIỆT
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="htvc_thuan_viet_hd" group-title="HTV" tvg-logo="https://img.hplus.com.vn/1180x665/banner/2018/06/05/879824-ThuanVietHD1.png", HTVC THUẦN VIỆT HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htvc_du_lich_cuoc_song" group-title="HTV" tvg-logo="https://imgur.com/nTF9DFR.png", HTVC DU LỊCH VÀ CUỘC SỐNG HD
+#EXTINF:-1 tvg-id="htvc_du_lich_cuoc_song" group-title="HTV" tvg-logo="https://imgur.com/nTF9DFR.png", HTVC Du Lịch & Cuộc Sống HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="htvc_gia_dinh" group-title="HTV" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2018-06-06/3590945-logo-htvc-gia-d.png", HTVC GIA ĐÌNH HD
+#EXTINF:-1 tvg-id="htvc_gia_dinh" group-title="HTV" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2018-06-06/3590945-logo-htvc-gia-d.png", HTVC Gia Đình HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htvc_phu_nu" group-title="HTV" tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2016-10-20/5657089-logo-phunu-fina.png", HTVC PHỤ NỮ HD
+#EXTINF:-1 tvg-id="htvc_phu_nu" group-title="HTV" tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2016-10-20/5657089-logo-phunu-fina.png", HTVC Phụ Nữ HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="htvc_phim_hd" group-title="HTV" tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2017-04-10/563560-logo-kenh-phim-.png", HTVC PHIM HD
+#EXTINF:-1 tvg-id="htvc_phim_hd" group-title="HTV" tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2017-04-10/563560-logo-kenh-phim-.png", HTVC Phim HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvc_plus_hd" group-title="HTV" tvg-logo="https://i.imgur.com/dDPFjDL.png", HTVC PLUS HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="htvc_ca_nhac" group-title="HTV" tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2017-04-10/2028200-ca-nhac-01.png", HTVC CA NHẠC HD
+#EXTINF:-1 tvg-id="htvc_ca_nhac" group-title="HTV" tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2017-04-10/2028200-ca-nhac-01.png", HTVC Ca Nhạc  HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8?
 #EXTINF:-1 tvg-id="htvc_fbnc" group-title="HTV" tvg-logo="http://img.hplus.com.vn/226x127/poster/2018/06/05/906484-FBNC.png",FBNC
 http://livecdn.fptplay.net/sdc/fbnchd_2000.stream/chunklist.m3u8
