@@ -600,7 +600,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.imgur.com/uygxDxH.jpg", ABC TV
 https://cdn.us195.jpnettv.live/jptv/kansi_abc_asahi_540/playlist.m3u8?
-#EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.imgur.com/lqxUOD5.png", ANIMAX HD (NHẬT BẢN)
+#EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.imgur.com/lqxUOD5.png", ANIMAX HD (Nhật Bản)
 https://cdn.kr130.jpnettv.live/live/janimax_540/playlist.m3u8?
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.imgur.com/VdvySNi.png", OSAKA TV
 https://cdn.jpth10.jpnettv.live/jptv/kansi_tv_osaka_540/playlist.m3u8?
@@ -608,7 +608,7 @@ https://cdn.jpth10.jpnettv.live/jptv/kansi_tv_osaka_540/playlist.m3u8?
 https://cdn.kr130.jpnettv.live/live/jkids/playlist.m3u8?
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/7f88d09bd963ce1fe317b34a6f6d4d02.png", GAORA SPORTS
 https://cdn.kr130.jpnettv.live/live/GaoRa/playlist.m3u8? 
-#EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.imgur.com/HIFYwzr.png", MTV (NHẬT BẢN)
+#EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.imgur.com/HIFYwzr.png", MTV (Nhật Bản)
 https://cdn.kr130.jpnettv.live/live/mtv/playlist.m3u8?
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.imgur.com/mwydYmO.png", MBS HD
 https://cdn.kr130.jpnettv.live/live/kansi_mbs_720/playlist.m3u8?
@@ -650,7 +650,7 @@ https://sotalcloud.live-s.cdn.bitgravity.com/cdn-live/_definst_/sotalcloud/live/
 https://cdn.kr130.jpnettv.live/live/cinefil_wowow_540/playlist.m3u8?
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Weathernews_logo.svg/1200px-Weathernews_logo.svg.png", Weathernews HD
 http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/R0MCQRJ/YTV.png", YTV
+#EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/R0MCQRJ/YTV.png", YTV HD
 https://cdn.kr130.jpnettv.live/live/kansi_yomiuri_720/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7osksNP.png" group-title="TRUNG QUỐC", CCTV1 HD
