@@ -332,7 +332,7 @@ https://vtc130121.cdn.vnns.io/VTC16_abr/vtc130121/VTC16_abr_1080p/chunks.m3u8
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab1_SD.smil/chunklist_w736153104_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:-1 tvg-id="vtvcab2_phim_viet" group-title="VTVCab" tvg-logo="https://i.imgur.com/51p2bZw.png", VTVCab2 - Phim Việt
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab2_SD.smil/chunklist_w572040416_b2692000.m3u8
-#EXTINF:-1 tvg-id="vtvcab3_the_thao_tv_hd" group-title="VTVCab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Thể_thao_TV.png/revision/latest/scale-to-width-down/732?cb=20191208082359", VTVCab3 - Thể Thao TV
+#EXTINF:-1 tvg-id="vtvcab3_the_thao_tv_sd" group-title="VTVCab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Thể_thao_TV.png/revision/latest/scale-to-width-down/732?cb=20191208082359", VTVCab3 - Thể Thao TV
 http://gg.gg/TTTV-VTVCAB3
 #EXTINF:-1 tvg-id="vtvcab4" group-title="VTVCab" tvg-logo="https://i.imgur.com/KAxnvDh.png", VTVCab4
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab4_HD.smil/chunklist_w1602351601_b2692000.m3u8
@@ -352,7 +352,7 @@ https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab10_SD.smil/chunklist_w84526427
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab12_SD.smil/chunklist_w1704222967_b2692000.m3u8
 #EXTINF:-1 tvg-id="vtvcab15" group-title="VTVCab" tvg-logo="https://i.imgur.com/7f9YuMX.png", VTVCab15
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab15_SD.smil/chunklist_w1045987880_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-#EXTINF:-1 tvg-id="vtvcab16_bong_da_tv_hd" group-title="VTVCab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Bong-da-tv-logo.png", VTVCab16 - Bóng Đá TV
+#EXTINF:-1 tvg-id="vtvcab16_bong_da_tv" group-title="VTVCab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Bong-da-tv-logo.png", VTVCab16 - Bóng Đá TV
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab16_SD.smil/chunklist_w59021678_b2692000.m3u8
 #EXTINF:-1 tvg-id="vtvcab16_bong_da_tv_hd" group-title="VTVCab" tvg-logo="https://i.imgur.com/F2JFZp0.png", VTVCab16 - Bóng Đá TV HD
 http://gg.gg/BDTV-VTVCAB16
