@@ -691,7 +691,7 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
 #EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/EmjV348.png", CCTV17 HD
 http://39.135.138.58:18890/PLTV/88888910/224/3221225908/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Pp5gmWV.jpg" group-title="TRUNG QUỐC", CHC HD - PHIM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pp5gmWV.jpg" group-title="TRUNG QUỐC", CHC HD - Phim
 http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NQZDrql.jpg" group-title="TRUNG QUỐC", CHC HD - Home Theater
 http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
@@ -747,7 +747,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wpFpPmy.png" group-title="TRUNG QUỐC", Thiên Tân
 http://39.134.115.163:8080/PLTV/88888910/224/3221225739/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/80/Qhtvlogo.jpg" group-title="TRUNG QUỐC", THANH HẢI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/80/Qhtvlogo.jpg" group-title="TRUNG QUỐC", Thanh Hải
 http://39.134.116.30:8080/PLTV/88888910/224/3221225727/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KurE4dw.jpg" group-title="TRUNG QUỐC", Tân Cương
 http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
