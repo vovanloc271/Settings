@@ -110,8 +110,6 @@ http://livecdn.fptplay.net/sda/tayninhhd_2000.stream/playlist.m3u8
 http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/02DXBmD.png", Thái Nguyên 1 HD
 https://livecdn.fptplay.net/sdc/thainguyen_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/68DJk6K.png", Thái Nguyên  2
-http://14.232.176.71:8889/rtp/232.84.3.123:9168
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="http://truyenhinhthanhhoa.vn/dataimages/201803/original/images5392868_logoTTV.png", Thanh Hóa HD
 http://687642383.r.vietnamcdn.net/687642383/_definst_/mystream/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/UYVIFLM.png", Thừa Thiên Huế
