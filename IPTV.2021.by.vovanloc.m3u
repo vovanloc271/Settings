@@ -416,6 +416,10 @@ https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/IdpwGJP.png", BLOOMBERG TV
 https://livecdn.fptplay.net/qnetlive/bloomberg_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://mytv.com.vn/upload/channel/178.png", Disney Channel HD
+http://14.253.85.198:8889/rtp/232.84.2.143:10678
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png", Disney Junior (Việt Nam)
+http://14.253.85.198:8889/rtp/232.84.3.200:11122
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png", Cinema World
 https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cna_channel_news_asia" group-title="KÊNH QUỐC TẾ" tvg-logo="https://mytv.com.vn/upload/channel/146.png", CNA
