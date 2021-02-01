@@ -402,12 +402,8 @@ https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="blue_ant_extreme" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png", Blue Ant Extreme
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/IdpwGJP.png", BLOOMBERG TV
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/IdpwGJP.png", BLOOMBERG
 https://livecdn.fptplay.net/qnetlive/bloomberg_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://mytv.com.vn/upload/channel/178.png", Disney Channel HD
-http://14.253.85.198:8889/rtp/232.84.2.143:10678
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png", Disney Junior (Việt Nam)
-http://14.253.85.198:8889/rtp/232.84.3.200:11122
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png", Cinema World
 https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cna_channel_news_asia" group-title="KÊNH QUỐC TẾ" tvg-logo="https://mytv.com.vn/upload/channel/146.png", CNA
@@ -466,8 +462,6 @@ https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/in
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://img.hplus.com.vn/460x260/poster/2019/07/16/198549-nat_geo_wild.png", Nat Geo WILD HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png", Nat Geo People HD
-http://14.232.176.71:8889/rtp/232.84.1.76:8430
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/go9pLyw.png", NBC News
 http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/do0MLyS.png", EURO NEWS
