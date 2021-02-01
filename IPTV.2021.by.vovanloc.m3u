@@ -358,14 +358,10 @@ https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab16_SD.smil/chunklist_w59021678
 http://gg.gg/BDTV-VTVCAB16
 #EXTINF:-1 tvg-id="vtvcab17_yeah1_tv" group-title="VTVCab" tvg-logo="https://i.imgur.com/zEqwKZv.png", VTVCab17 - Yeah1! TV
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab17_SD.smil/chunklist_w1937694963_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-#EXTINF:-1 tvg-id="vtvcab18_tin_tuc_the_thao_hd" group-title="VTVCab" tvg-logo="https://i.imgur.com/VVo4cR5.png",VTVCab18 - Thể Thao Tin Tức HD
-http://14.232.176.71:8889/rtp/232.84.2.193:10942
 #EXTINF:-1 tvg-id="vtvcab19_kenh_phim" group-title="VTVCab" tvg-logo="https://i.imgur.com/YKu4zwe.png", VTVCab19 - Film TV
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab19_SD.smil/chunklist_w2020656984_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:-1 tvg-id="vtvcab20_Family" group-title="VTVCab" tvg-logo="https://i.imgur.com/jq89K5I.png", VTVCab20 - VFamily
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab20_SD.smil/chunklist_w1750066304_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-#EXTINF:-1 tvg-id="vtvcab23_golff_hd" group-title="VTVCab" tvg-logo="https://i.imgur.com/qCDxBfd.png", VTVCab23 HD - GOLF TV
-http://14.232.176.71:8889/rtp/232.84.2.246:10876
 
 #EXTINF:-1 tvg-id="btv4_imovie" group-title="KHÁC" tvg-logo="https://i.imgur.com/IbCiRth.png",BTV4 - iMovie HD
 https://livecdn.fptplay.net/hda/btv4hd_2000.stream/chunklist.m3u8
@@ -437,16 +433,12 @@ http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/QCSeNYK.png",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="max_by_hbo" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png", CINEMAX
-http://14.232.176.71:8889/rtp/232.84.2.139:10654
-#EXTINF:-1 tvg-id="max_by_hbo" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png", CINEMAX (Server 2)
 http://quangvinh997.duckdns.org:8889/udp/225.1.2.86:30120
 #EXTINF:-1 tvg-id="red_by_hbo" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/pf0FCnT.png", Red by HBO
 http://14.232.176.71:8889/rtp/232.84.2.172:10840
 #EXTINF:-1 tvg-id="red_by_hbo" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/pf0FCnT.png", Red by HBO (Server 2)
 http://quangvinh997.duckdns.org:8889/udp/225.1.1.93:30120
 #EXTINF:-1 tvg-id="hbo" group-title="KÊNH QUỐC TẾ" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO HD (VIETSUB)
-http://14.232.176.71:8889/rtp/232.84.2.138:10648
-#EXTINF:-1 tvg-id="hbo" group-title="KÊNH QUỐC TẾ" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO HD (VIETSUB) (Server 2)
 http://quangvinh997.duckdns.org:8889/udp/225.1.4.90:30120
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/jTJwiNo.png", HBO HITS
 http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
