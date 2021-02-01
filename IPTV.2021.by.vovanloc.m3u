@@ -211,7 +211,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8?
 #EXTINF:-1 tvg-id="htvc_fbnc" group-title="HTV" tvg-logo="http://img.hplus.com.vn/226x127/poster/2018/06/05/906484-FBNC.png",FBNC
 http://livecdn.fptplay.net/sdc/fbnchd_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="sctv1" group-title="SCTV" tvg-logo="https://i.imgur.com/oPjCa43.png", SCTV1 HD - HÀI
+#EXTINF:-1 tvg-id="sctv1" group-title="SCTV" tvg-logo="https://i.imgur.com/oPjCa43.png", SCTV1 HD - Hài
 https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV_HD_Hai.smil/chunklist_w1019267680_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:-1 tvg-id="sctv2_hd" group-title="SCTV"  tvg-logo="https://i.imgur.com/sURj0j4.png", SCTV2 SD - AMC
 https://vtsstr3.tv24.vn/elive/_definst_/smil:sctv2_HD.smil/chunklist_w622625091_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
@@ -695,65 +695,65 @@ http://39.135.138.58:18890/PLTV/88888910/224/3221225908/index.m3u8
 http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NQZDrql.jpg" group-title="TRUNG QUỐC", CHC HD - Home Theater
 http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/NtkWezp.png", AN HUY
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/NtkWezp.png", An Huy
 http://39.135.135.20:80/wh7f454c46tw1908984123_266816139/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225727/index.m3u8
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/kk8z1HS.png", BẮC KINH
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/kk8z1HS.png", Bắc Kinh
 http://39.135.135.64:80/wh7f454c46tw396526073_-531758429/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/nJw9ak6.png", CHIẾT GIANG
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/nJw9ak6.png", Chiết Giang
 http://39.134.65.5:80/wh7f454c46tw1556997463_-421232541/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/Emy8cVY.png", CÁT LÂM
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/Emy8cVY.png", Cát Lâm
 http://39.134.65.86:80/wh7f454c46tw1150611876_1083063933/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225637/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/16/GSTV_logo.png" group-title="TRUNG QUỐC", CAM TÚC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/16/GSTV_logo.png" group-title="TRUNG QUỐC", Cam Túc
 http://39.134.115.163:8080/PLTV/88888910/224/3221225724/index.m3u8
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d4/Liaoning_Television_Logo.png", LIÊU NINH
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d4/Liaoning_Television_Logo.png", Liêu Ninh
 http://39.135.138.60:18890/PLTV/88888910/224/3221225735/index.m3u8
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/2JLpv0q.png", HỒ NAM
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/2JLpv0q.png", Hồ Nan
 http://39.134.65.69:80/wh7f454c46tw99893247_1414083234/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/rObv7zC.png", HỒ BẮC
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/rObv7zC.png", Hồ Bắc
 http://39.134.115.163:8080/PLTV/88888910/224/3221225740/index.m3u8
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/yhUIeUs.jpg", HÀ BẮC
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/yhUIeUs.jpg", Hà Bắc
 http://39.134.116.30:8080/PLTV/88888910/224/3221225732/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bbzP8Zv.jpg" group-title="TRUNG QUỐC", HẢI NAM
 http://39.135.138.60:18890/PLTV/88888910/224/3221225722/index.m3u8
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/nPffk5l.png", HẮC LONG GIANG
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/nPffk5l.png", Hắc Long Giang
 http://39.134.115.163:8080/PLTV/88888910/224/3221225736/index.m3u8
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/db/GXTV_logo.png", QUẢNG TÂY
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/db/GXTV_logo.png", Quảng Tây
 http://39.134.65.81:80/wh7f454c46tw3986412525_1796525468/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225622/index.m3u8
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/eSAHJOR.png", QUẢNG ĐÔNG
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/eSAHJOR.png", Quảng Tây
 http://39.134.65.65:80/wh7f454c46tw2600817756_1873210458/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225736/index.m3u8
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Jiangsu_Broadcasting_Corporation_Logo.png", GIANG TÔ
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Jiangsu_Broadcasting_Corporation_Logo.png", Giang Tô
 http://39.134.115.163:8080/PLTV/88888910/224/3221225743/index.m3u8
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0f/%E6%B1%9F%E8%A5%BF%E8%A1%9B%E8%A6%96.png", GIANG TÂY
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0f/%E6%B1%9F%E8%A5%BF%E8%A1%9B%E8%A6%96.png", Giang Tây
 http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/76/NXTV_logo.png" group-title="TRUNG QUỐC", NINH HẠ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/76/NXTV_logo.png" group-title="TRUNG QUỐC", Ninh Hạ
 http://39.135.138.60:18890/PLTV/88888910/224/3221225726/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mbqStge.jpg" group-title="TRUNG QUỐC", NỘI MÔNG
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mbqStge.jpg" group-title="TRUNG QUỐC", Nội Mông
 http://39.134.115.163:8080/PLTV/88888910/224/3221225667/index.m3u8
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/5DOdFnl.png", SƠN ĐÔNG
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/5DOdFnl.png", Sơn Đông
 http://39.135.135.19:80/wh7f454c46tw492976007_-44721050/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225737/index.m3u8
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/VQOJEVY.jpg", ĐÔNG NAM
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/VQOJEVY.jpg", Đông Nam
 http://39.134.65.77:80/wh7f454c46tw2982035531_-1145786932/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/oMF7KyK.jpg", TÂY TẠNG
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/oMF7KyK.jpg", Tây Tạng
 http://39.134.65.73:80/wh7f454c46tw4251779860_592847203/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/85/SCTV-1_logo.png", TỨ XUYÊN
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/85/SCTV-1_logo.png", Tứ Xuyên
 http://39.135.135.14:80/wh7f454c46tw813968671_-363609184/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225621/index.m3u8
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/DragonTV_logo.png", THƯỢNG HẢI
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/DragonTV_logo.png", Thượng Hải
 http://39.135.135.22:80/wh7f454c46tw2100802875_-1633439364/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/cB5Kb9p.png", THÂM QUYẾN
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/cB5Kb9p.png", Thâm Quyến
 http://39.135.135.81:80/wh7f454c46tw3249201142_830105667/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/85/CQTV_2019_logo.png", TRÙNG KHÁNH
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/85/CQTV_2019_logo.png", Trùng Khánh
 http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0d/Shaanxi_Satellite_TV.png/220px-Shaanxi_Satellite_TV.png" group-title="TRUNG QUỐC", THIỂM TÂY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0d/Shaanxi_Satellite_TV.png/220px-Shaanxi_Satellite_TV.png" group-title="TRUNG QUỐC", Thiểm Tây
 http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wpFpPmy.png" group-title="TRUNG QUỐC", THIÊN TÂN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wpFpPmy.png" group-title="TRUNG QUỐC", Thiên Tân
 http://39.134.115.163:8080/PLTV/88888910/224/3221225739/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/80/Qhtvlogo.jpg" group-title="TRUNG QUỐC", THANH HẢI
 http://39.134.116.30:8080/PLTV/88888910/224/3221225727/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KurE4dw.jpg" group-title="TRUNG QUỐC", TÂN CƯƠNG
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KurE4dw.jpg" group-title="TRUNG QUỐC", Tân Cương
 http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ijIGolK.jpg" group-title="TRUNG QUỐC", QUÝ CHÂU
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ijIGolK.jpg" group-title="TRUNG QUỐC", Quý Châu
 http://39.134.116.30:8080/PLTV/88888910/224/3221225728/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qhpkpze.png" group-title="TRUNG QUỐC", VÂN NAM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qhpkpze.png" group-title="TRUNG QUỐC", Vân Nam
 http://39.135.138.60:18890/PLTV/88888910/224/3221225664/index.m3u8
 
 #EXTINF:-1 group-title="HÀN QUỐC" tvg-logo="https://i.imgur.com/jwN0FWl.png", SBS Plus 
