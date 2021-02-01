@@ -632,6 +632,8 @@ https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 https://sotalcloud.live-s.cdn.bitgravity.com/cdn-live/_definst_/sotalcloud/live/DYA_004/playlist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/GFKbmvv/Nihon-Eiga-TV.png", Nihon Eiga TV
 https://cdn.kr130.jpnettv.live/live/igasennmonn_540/playlist.m3u8
+#EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.imgur.com/yM9EG6l.jpg", Eisei Gekijo
+https://cdn.kr130.jpnettv.live/live/gekijjyou/playlist.m3u8?
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.imgur.com/OXYSiIO.jpg", SKY A
 https://cdn.kr130.jpnettv.live/live/Sky_A/playlist.m3u8?
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.imgur.com/8KjuKrH.png", TBS HD
