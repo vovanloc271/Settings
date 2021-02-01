@@ -430,8 +430,8 @@ http://live.cgtn.com/1000/prog_index.m3u8
 http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
 #EXTINF:-1 tvg-id="red_by_hbo" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/pf0FCnT.png", Red by HBO
 http://14.232.176.71:8889/rtp/232.84.2.172:10840
-#EXTINF:-1 tvg-id="hbo" group-title="KÊNH QUỐC TẾ" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO HD (VIETSUB)
-http://quangvinh997.duckdns.org:8889/udp/225.1.4.90:30120
+#EXTINF:-1 tvg-id="hbo" group-title="KÊNH QUỐC TẾ" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO HD
+http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/jTJwiNo.png", HBO HITS
 http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/SJYAGsj.png", HBO FAMILY
