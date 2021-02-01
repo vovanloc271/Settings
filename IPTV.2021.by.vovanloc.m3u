@@ -783,6 +783,8 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 #EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/VWGzYN6.jpg", TNN16
 http://119.59.125.74/stream/totnew.php?channel_id=77774220bb8e40aa94e549e29ff3ed8a&.m3u8
+#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/PPTV_2019.svg/revision/latest?cb=20190815051944", PPTV36 HD (Chọn HW 👉)
+https://www.livedoomovies.com/02_PPTVHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/ZYcp3cD.jpg", FAN TV
 http://36.37.252.114:888/Apple/OneTV-038/playlist.m3u8
 #EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/t8lZXg0.png", GMM 25 HD (Chọn HW) 👉
