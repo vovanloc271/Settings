@@ -602,6 +602,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://cdn.us195.jpnettv.live/jptv/kansi_abc_asahi_540/playlist.m3u8?
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.imgur.com/lqxUOD5.png", ANIMAX HD (Nhật Bản)
 https://cdn.kr130.jpnettv.live/live/janimax_540/playlist.m3u8?
+#EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest?cb=20180904084738", Disney Junior (Nhật Bản)
+https://cdn.kr130.jpnettv.live/live/disney_channel/playlist.m3u8?
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.imgur.com/VdvySNi.png", OSAKA TV
 https://cdn.jpth10.jpnettv.live/jptv/kansi_tv_osaka_540/playlist.m3u8?
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.imgur.com/0YttBOF.png", KIDS STATION
