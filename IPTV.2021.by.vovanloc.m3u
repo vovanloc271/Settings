@@ -753,10 +753,12 @@ http://119.200.131.11:1935/KBCTV/tv/chunklist_w5739111.m3u8
 http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/chunklist_w388054239_b4692000_slThai.m3u8
 #EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/Zqu4sH8.png", CH3 HD
 https://ch3-33-web.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/U5is9Sw.png", CH5 HD
+#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/Zqu4sH8.png", CH3 HD (Server 2) (Chọn HW)👉
+https://www.livedoomovies.com/02_3HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/U5is9Sw.png", CH5 HD (Chọn HW)👉
 https://www.livedoomovies.com/02_5HD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/Yjw7t7H.png", CH7 HD
-http://36.37.252.114:888/Apple/OneTV-037/playlist.m3u8
+#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/Yjw7t7H.png", CH7 HD (Chọn HW)👉
+https://www.livedoomovies.com/02_7HD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBT_2009.png", NBT BANGKOK HD
 http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
 #EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/FWysl8P.jpg", News 1
