@@ -769,8 +769,8 @@ http://news1.live14.com/stream/news1_hi.m3u8
 https://stream-03.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSavZ7WPABcYoJg7wb27Kh4M)/dm/3/x6eoldf/d/live-3.m3u8
 #EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png", MONO 29 HD (FAKE VPN SANG THÁI)
 https://59ffdfa4495c3.streamlock.net/MONO29_HLS_720P/mono29hls_720TH.stream/chunklist_w1570411781.m3u8
-#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/GsW8pm1.png", MCOT 30 HD
-http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w1379983401_b3000000.m3u8
+#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/GsW8pm1.png", MCOT 30 HD (Chọn HW)👉
+https://stream-02.sg1.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xvmNnMCLbmgHuV6EH8wVTqE)/dm/3/x74wlgj/s/live-4.m3u8
 #EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/SKcR3K3.png", ONE 31 HD
 http://live2.dootvde.com/live/50022_one_hd.stream.smil/chunklist_w1357722020_b4692000_slThai.m3u8
 #EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/grwYHJW.png", Thai PBS 3 HD
