@@ -422,8 +422,6 @@ http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="max_by_hbo" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png", CINEMAX (Quốc Tế)
 http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
-#EXTINF:-1 tvg-id="red_by_hbo" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/pf0FCnT.png", Red by HBO
-http://14.232.176.71:8889/rtp/232.84.2.172:10840
 #EXTINF:-1 tvg-id="hbo" group-title="KÊNH QUỐC TẾ" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png", HBO HD (Quốc Tế)
 http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/jTJwiNo.png", HBO HITS
