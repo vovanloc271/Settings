@@ -90,8 +90,8 @@ http://livecdn.fptplay.net/sda/phutho_2000.stream/playlist.m3u8
 https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://mytv.com.vn/upload/channel/731.png", Quảng Bình HD
 https://livecdn.fptplay.net/sda/quangbinh_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/BrnPye5.png", Quảng Trị
-https://livecdn.fptplay.net/sdc/quangtri_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/BrnPye5.png", Quảng Trị HD
+http://mediatech.vncdn.vn/qrtvlive/tv1live.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://img.hplus.com.vn/460x260/poster/2018/06/05/764456-QRT.png", Quảng Nam
 https://livecdn.fptplay.net/sdc/quangnam_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://mytv.com.vn/upload/channel/762.png", Quảng Ngãi HD
