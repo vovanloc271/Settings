@@ -159,25 +159,6 @@ https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://htvc.vn/uploads/cache/thumbnail/2017-06-02/661716-dak-nong.png", Đắk Nông
 http://gg.gg/daknongtvonline
 
-#EXTINF:-1 tvg-id="antvhd" group-title="THỜI SỰ VÀ CHÍNH TRỊ" tvg-logo="https://i.imgur.com/kzKZm1L.png", An Ninh TV HD
-https://livecdn.fptplay.net/sdc/anninhtv_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="quoc_hoi_tv" group-title="THỜI SỰ VÀ CHÍNH TRỊ" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/17/KenhQuocHoi_logo.png", Quốc Hội | 1080p
-http://36.37.252.114:888/Apple/OneTV-106/playlist.m3u8
-#EXTINF:-1 tvg-id="quoc_hoi_tv" group-title="THỜI SỰ VÀ CHÍNH TRỊ" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/17/KenhQuocHoi_logo.png", Quốc Hội | 720p
-http://113.164.225.140:1935/live/quochoitvlive.stream_720p/chunklist_w1307818628.m3u8
-#EXTINF:-1 tvg-id="quoc_phong_tv" group-title="THỜI SỰ VÀ CHÍNH TRỊ" tvg-logo="http://qpvn.vn/uploads/site/703a04fed6e5d0fb9aaf41941140ff3805c0ae9a.png", Quốc Phòng Việt Nam HD
-https://livecdn.fptplay.net/sdc/quocphongvnhd_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="nhan_dan_tv" group-title="THỜI SỰ VÀ CHÍNH TRỊ" tvg-logo="https://img.hplus.com.vn/1180x665/banner/2018/06/05/255092-Nhandan.png", Nhân Dân TV | 1080P
-http://36.37.252.114:888/Apple/OneTV-109/playlist.m3u8
-#EXTINF:-1 tvg-id="nhan_dan_tv" group-title="THỜI SỰ VÀ CHÍNH TRỊ" tvg-logo="https://img.hplus.com.vn/1180x665/banner/2018/06/05/255092-Nhandan.png", Nhân Dân TV | 720P
-https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915633964.m3u8
-#EXTINF:-1 tvg-id="ttxvn" group-title="THỜI SỰ VÀ CHÍNH TRỊ" tvg-logo="https://i.imgur.com/ziUs8oD.png", VNews | 1080P
-http://36.37.252.114:888/Apple/OneTV-110/playlist.m3u8
-#EXTINF:-1 tvg-id="ttxvn" group-title="THỜI SỰ VÀ CHÍNH TRỊ" tvg-logo="https://i.imgur.com/ziUs8oD.png", VNews | 720P
-http://livecdn.fptplay.net/sda/ttxvn_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vovtv" group-title="THỜI SỰ VÀ CHÍNH TRỊ" tvg-logo="https://i.imgur.com/SReog1U.png", VOV TV HD
-http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
-
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.ibb.co/yXjF0dk/htv1logobyvovanloc.png", HTV1
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv2" group-title="HTV" tvg-logo="https://i.ibb.co/3hWyJYk/htv2logobyvovanloc.png", HTV2 - Vie Channel
@@ -267,6 +248,24 @@ https://vtc130121.cdn.vnns.io/VTC14_abr/vtc130121/VTC14_abr_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="vtc16" group-title="VTC" tvg-logo="https://i.imgur.com/silGs1H.png", VTC16 HD
 https://vtc130121.cdn.vnns.io/VTC16_abr/vtc130121/VTC16_abr_1080p/chunks.m3u8
 
+#EXTINF:-1 tvg-id="antvhd" group-title="KHÁC" tvg-logo="https://i.imgur.com/kzKZm1L.png", An Ninh TV HD
+https://livecdn.fptplay.net/sdc/anninhtv_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="quoc_hoi_tv" group-title="KHÁC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/17/KenhQuocHoi_logo.png", Quốc Hội | 1080p
+http://36.37.252.114:888/Apple/OneTV-106/playlist.m3u8
+#EXTINF:-1 tvg-id="quoc_hoi_tv" group-title="KHÁC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/17/KenhQuocHoi_logo.png", Quốc Hội | 720p
+http://113.164.225.140:1935/live/quochoitvlive.stream_720p/chunklist_w1307818628.m3u8
+#EXTINF:-1 tvg-id="quoc_phong_tv" group-title="KHÁC" tvg-logo="http://qpvn.vn/uploads/site/703a04fed6e5d0fb9aaf41941140ff3805c0ae9a.png", Quốc Phòng Việt Nam HD
+https://livecdn.fptplay.net/sdc/quocphongvnhd_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="nhan_dan_tv" group-title="KHÁC" tvg-logo="https://img.hplus.com.vn/1180x665/banner/2018/06/05/255092-Nhandan.png", Nhân Dân TV | 1080P
+http://36.37.252.114:888/Apple/OneTV-109/playlist.m3u8
+#EXTINF:-1 tvg-id="nhan_dan_tv" group-title="KHÁC" tvg-logo="https://img.hplus.com.vn/1180x665/banner/2018/06/05/255092-Nhandan.png", Nhân Dân TV | 720P
+https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915633964.m3u8
+#EXTINF:-1 tvg-id="ttxvn" group-title="KHÁC" tvg-logo="https://i.imgur.com/ziUs8oD.png", VNews | 1080P
+http://36.37.252.114:888/Apple/OneTV-110/playlist.m3u8
+#EXTINF:-1 tvg-id="ttxvn" group-title="KHÁC" tvg-logo="https://i.imgur.com/ziUs8oD.png", VNews | 720P
+http://livecdn.fptplay.net/sda/ttxvn_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vovtv" group-title="KHÁC" tvg-logo="https://i.imgur.com/SReog1U.png", VOV TV HD
+http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="btv4_imovie" group-title="KHÁC" tvg-logo="https://i.imgur.com/IbCiRth.png",BTV4 - iMovie HD
 https://livecdn.fptplay.net/hda/btv4hd_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="btv6_viet_teen" group-title="KHÁC" tvg-logo="https://htvc.vn/uploads/cache/thumbnail/2019-04-08/5412686-binh-thuan-6.png",BTV6
