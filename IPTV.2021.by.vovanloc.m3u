@@ -685,6 +685,8 @@ https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunkl
 https://www.livedoomovie.com/02_MCOTHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/SKcR3K3.png", ONE 31 HD
 http://live2.dootvde.com/live/50022_one_hd.stream.smil/chunklist_w1357722020_b4692000_slThai.m3u8
+#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/SKcR3K3.png", ONE 31 HD (Chọn HW)👉
+https://www.livedoomovie.com/02_GMMONE_720p/chunklist.m3u8
 #EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/grwYHJW.png", Thai PBS 3 HD
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/D2I72kF.png", Thairath TV 32 HD (Chọn HW)👉
