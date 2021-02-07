@@ -691,8 +691,8 @@ http://160.119.77.116:8081/iptv/hd-mcot.stream/playlist.m3u8
 http://live2.dootvde.com/live/50022_one_hd.stream.smil/chunklist_w1357722020_b4692000_slThai.m3u8
 #EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/grwYHJW.png", Thai PBS 3 HD
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/D2I72kF.png", Thairath TV 32 HD (FAKE VPN SANG THÁI)
-http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/D2I72kF.png", Thairath TV 32 HD (Chọn HW) 👉
+https://www.livedoomovie.com/02_THAIRATH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/VWGzYN6.jpg", TNN16
 http://119.59.125.74/stream/totnew.php?channel_id=77774220bb8e40aa94e549e29ff3ed8a&.m3u8
 #EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/M8zp6Y1/PPTV36logobyvovanloc.png", PPTV36 HD (Chọn HW) 👉
