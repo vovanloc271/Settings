@@ -405,13 +405,13 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
 #EXTINF:-1 tvg-id="warner_tv_hd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://imgur.com/9qJI1Mg.png", Warner TV (Server 2)
 https://livecdn.fptplay.net/qnetlive/warnertv_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png", BeIN Sport 1 HD (Chọn HW) 👉
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png", BeIN Sport 1 HD (Chọn HW)👉
 https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png", BeIN Sport 2 HD (Chọn HW) 👉
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png", BeIN Sport 2 HD (Chọn HW)👉
 https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png", BT SPORT 1 (Chọn HW) 👉
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png", BT SPORT 1 (Chọn HW)👉
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/BTSPORT_2_BLACK_RGB.png", BT SPORT 2 (Chọn HW) 👉
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/BTSPORT_2_BLACK_RGB.png", BT SPORT 2 (Chọn HW)👉
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtvcab3_the_thao_tv_sd" group-title="KÊNH THỂ THAO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Thể_thao_TV.png/revision/latest/scale-to-width-down/732?cb=20191208082359", VTVCab3 - Thể Thao TV
 http://gg.gg/TTTV-VTVCAB3
@@ -427,15 +427,15 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="fox_sports3" group-title="KÊNH THỂ THAO" tvg-logo="http://img.hplus.com.vn/460x260/poster/2019/07/16/851322-foxsport_3.png", FOX SPORT 3 HD
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png", SPORT.TV 1 HD (Chọn HW) 👉
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png", SPORT.TV 1 HD (Chọn HW)👉
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png" group-title="KÊNH THỂ THAO", SPORT.TV 2 HD (Chọn HW) 👉
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png" group-title="KÊNH THỂ THAO", SPORT.TV 2 HD (Chọn HW 👉
 https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.thesportsdb.com/images/media/logo/xysrvw1470407766.png", SPORT.TV 3 HD (Chọn HW) 👉
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.thesportsdb.com/images/media/logo/xysrvw1470407766.png", SPORT.TV 3 HD (Chọn HW)👉
 https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.thesportsdb.com/images/media/logo/qypxry1470408244.png", SPORT.TV 4 HD (Chọn HW) 👉
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.thesportsdb.com/images/media/logo/qypxry1470408244.png", SPORT.TV 4 HD (Chọn HW)👉
 https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.thesportsdb.com/images/media/logo/vvvqxp1470408443.png", SPORT.TV 5 HD (Chọn HW) 👉
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.thesportsdb.com/images/media/logo/vvvqxp1470408443.png", SPORT.TV 5 HD (Chọn HW)👉
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/sDxJj7C.png", Sky Sports Premier League
 http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
@@ -451,9 +451,9 @@ http://92.43.140.200/s81/04.m3u8
 http://92.43.140.200/s82/04.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg", Star Sports
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports?checkedby
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/LS2PSpt.png", EURO SPORT 1 (Chọn HW) 👉
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/LS2PSpt.png", EURO SPORT 1 (Chọn HW)👉
 http://185.238.0.145:1313/c/livedo/eurosport1.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-2-HD.png", EURO SPORT 2 (Chọn HW) 👉
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-2-HD.png", EURO SPORT 2 (Chọn HW)👉
 http://185.238.0.145:1313/c/livedo/eurosport2.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/MsS4vJQ.png", Sky Racing 1
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
@@ -465,11 +465,11 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-premier-football-2-1819.png", True Premier Football 2 (Chọn HW) 👉
 https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-1-1070.png",TRUE SPORT HD 1 (Chọn HW) 👉
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-1-1070.png",TRUE SPORT HD 1 (Chọn HW)👉
 https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-2-1071.png",TRUE SPORT 2 HD (Chọn HW) 👉
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-2-1071.png",TRUE SPORT 2 HD (Chọn HW)👉
 https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-3-1072.png",TRUE SPORT 3 HD (Chọn HW) 👉
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-3-1072.png",TRUE SPORT 3 HD (Chọn HW)👉
 https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/xnuTY7o.png", Dubai Sports 1 HD
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist_b2000000.m3u8
@@ -671,27 +671,27 @@ https://www.livedoomovies.com/02_3HD_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_5HD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/Yjw7t7H.png", CH7 HD (Chọn HW)👉
 https://www.livedoomovies.com/02_7HD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/bjh4yxc/ch8logobyvovanloc.png", CH8 SD (Chọn HW) 👉
+#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/bjh4yxc/ch8logobyvovanloc.png", CH8 SD (Chọn HW)👉
 https://www.livedoomovie.com/02_8HD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBT_2009.png", NBT BANGKOK HD
 http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
 #EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/FWysl8P.jpg", News 1
 http://news1.live14.com/stream/news1_hi.m3u8
-#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/nw4jsTM/true4ulogobyvovanloc.png", True4u 24 (Chọn HW) 👉
+#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/nw4jsTM/true4ulogobyvovanloc.png", True4u 24 (Chọn HW)👉
 https://www.livedoomovie.com/02_TRUE4U_480p/chunklist.m3u8
 #EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png", MONO 29 HD
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8 
-#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/GsW8pm1.png", MCOT 30 HD
+#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/GsW8pm1.png", MCOT 30 HD (Chọn HW)👉
 https://www.livedoomovie.com/02_MCOTHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/SKcR3K3.png", ONE 31 HD
 http://live2.dootvde.com/live/50022_one_hd.stream.smil/chunklist_w1357722020_b4692000_slThai.m3u8
 #EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/grwYHJW.png", Thai PBS 3 HD
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/D2I72kF.png", Thairath TV 32 HD (Chọn HW) 👉
+#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/D2I72kF.png", Thairath TV 32 HD (Chọn HW)👉
 https://www.livedoomovie.com/02_THAIRATH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/VWGzYN6.jpg", TNN16
 http://119.59.125.74/stream/totnew.php?channel_id=77774220bb8e40aa94e549e29ff3ed8a&.m3u8
-#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/M8zp6Y1/PPTV36logobyvovanloc.png", PPTV36 HD (Chọn HW) 👉
+#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/M8zp6Y1/PPTV36logobyvovanloc.png", PPTV36 HD (Chọn HW)👉
 https://www.livedoomovies.com/02_PPTVHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/t8lZXg0.png", GMM 25 HD
 http://live2.dootvde.com/live/50018_gmm.stream.smil/chunklist_w259668913_b4692000_slThai.m3u8
