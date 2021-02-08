@@ -417,9 +417,9 @@ https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png", BeIN Sport 2 HD (Chọn HW)👉
 https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png", BT SPORT 1 (Chọn HW)👉
-https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/BTSPORT_2_BLACK_RGB.png", BT SPORT 2 (Chọn HW)👉
-https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab3_the_thao_tv_sd" group-title="KÊNH THỂ THAO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Thể_thao_TV.png/revision/latest/scale-to-width-down/732?cb=20191208082359", VTVCab3 - Thể Thao TV
 http://gg.gg/TTTV-VTVCAB3
 #EXTINF:-1 tvg-id="vtvcab16_bong_da_tv" group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Bong-da-tv-logo.png", VTVCab16 - Bóng Đá TV
