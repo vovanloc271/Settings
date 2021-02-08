@@ -406,10 +406,14 @@ https://livecdn.fptplay.net/qnetlive/warnertv_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/T4rGftp/astro1logobyvovanloc.png", Astro SuperSport 1 HD
 http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/T4rGftp/astro1logobyvovanloc.png", Astro SuperSport 1 HD (Server 2)
+http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/850XYFM/astro2logobyvovanloc.png", Astro SuperSport 2 HD
 http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/tQqQ78F/astro3logobyvovanloc.png", Astro SuperSport 3 HD
 http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/tQqQ78F/astro3logobyvovanloc.png", Astro SuperSport 3 HD
+http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/9cT0yXG/astro4logobyvovanloc.pngl", Astro SuperSport 4 HD
 http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png", BeIN Sport 1 HD (Chọn HW)👉
