@@ -229,8 +229,8 @@ https://vtc130121.cdn.vnns.io/VTC5_abr/vtc130121/VTC5_abr_1080p/chunks.m3u8
 https://vtc130121.cdn.vnns.io/VTC6_abr/vtc130121/VTC6_abr_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="vtc7_today_tv" group-title="VTC" tvg-logo="https://i.imgur.com/EN4VyUF.png", VTC7 HD - TodayTV
 https://vtc130121.cdn.vnns.io/VTC7_abr/vtc130121/VTC7_abr_1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc8" group-title="VTC" tvg-logo="https://i.imgur.com/FVM7co8.jpg",VTC8
-https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vtc8" group-title="VTC" tvg-logo="https://i.imgur.com/FVM7co8.jpg",VTC8 HD
+https://vtc130121.cdn.vnns.io:443/VTC8_abr/vtc130121/VTC8_abr_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="vtc9_lets_viet" group-title="VTC" tvg-logo="https://i.imgur.com/cPKCBIW.png", VTC9 HD
 https://vtc130121.cdn.vnns.io/VTC9_abr/vtc130121/VTC9_abr_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="vtc10" group-title="VTC" tvg-logo="https://i.imgur.com/djfEjs5.png", VTC10 HD
