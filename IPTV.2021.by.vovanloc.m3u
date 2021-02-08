@@ -192,23 +192,23 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8?
 #EXTINF:-1 tvg-id="htvc_fbnc" group-title="HTV" tvg-logo="https://i.ibb.co/R7NdXcF/FBNClogobyvovanloc.png", FBNC HD
 http://livecdn.fptplay.net/sdc/fbnchd_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/HVm4hSt/vtv1logobyvovanloc.png", VTV1 HD
+#EXTINF:-1 tvg-id="vtv1" group-title="VTV" tvg-logo="https://i.ibb.co/HVm4hSt/vtv1logobyvovanloc.png", VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ibb.co/P1nWrmk/vtv2logobyvovanloc.png", VTV2 HD
+#EXTINF:-1 tvg-id="vtv2" group-title="VTV" tvg-logo="https://i.ibb.co/P1nWrmk/vtv2logobyvovanloc.png", VTV2 HD
 https://livecdn.fptplay.net/hda/vtv2_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.ibb.co/QC9DNRP/vtv3logobyvovanloc.png", VTV3 HD
+#EXTINF:-1 tvg-id="vtv3" group-title="VTV" tvg-logo="https://i.ibb.co/QC9DNRP/vtv3logobyvovanloc.png", VTV3 HD
 http://livecdn.fptplay.net/hda/vtv3hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.ibb.co/JcLc2sP/vtv4logobyvovanloc.png", VTV4 HD
+#EXTINF:-1 tvg-id="vtv4" group-title="VTV" tvg-logo="https://i.ibb.co/JcLc2sP/vtv4logobyvovanloc.png", VTV4 HD
 https://livecdn.fptplay.net/hda/vtv4_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.ibb.co/hD7yYgp/vtv5logobyvovanloc.png", VTV5 HD
+#EXTINF:-1 tvg-id="vtv5" group-title="VTV" tvg-logo="https://i.ibb.co/hD7yYgp/vtv5logobyvovanloc.png", VTV5 HD
 https://livecdn.fptplay.net/hda/vtv5hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.ibb.co/j38ZWhp/vtv6logobyvovanloc.png", VTV6 HD
+#EXTINF:-1 tvg-id="vtv6" group-title="VTV" tvg-logo="https://i.ibb.co/j38ZWhp/vtv6logobyvovanloc.png", VTV6 HD
 https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.ibb.co/LzDbxcr/vtv7logobyvovanloc.png", VTV7 HD
+#EXTINF:-1 tvg-id="vtv7" group-title="VTV" tvg-logo="https://i.ibb.co/LzDbxcr/vtv7logobyvovanloc.png", VTV7 HD
 https://livecdn.fptplay.net/hda/vtv7hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.ibb.co/pWNZztN/vtv8logobyvovanloc.png", VTV8 HD
+#EXTINF:-1 tvg-id="vtv8" group-title="VTV" tvg-logo="https://i.ibb.co/pWNZztN/vtv8logobyvovanloc.png", VTV8 HD
 https://livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.ibb.co/M7PJpBx/vtv9logobyvovanloc.png", VTV9 HD
+#EXTINF:-1 tvg-id="vtv9" group-title="VTV" tvg-logo="https://i.ibb.co/M7PJpBx/vtv9logobyvovanloc.png", VTV9 HD
 https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.ibb.co/YWFwpvX/vtv5tnblogobyvovanloc.png", VTV5 Tây Nam Bộ
 https://vtvgolivesbd.vtvdigital.vn/08bb27b394bbebfff0ff0ff41517fc241602593234601/vtv5tnb.smil/chunklist_b1728000.m3u8
@@ -277,9 +277,9 @@ https://livecdn.fptplay.net/sda/sctv2_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="KHÁC" tvg-logo="https://i.imgur.com/Zg0rDaS.jpg", Phim lẻ: Nhất My Đạo Nhân - Vampire Vs Vampire
 https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/OTT/TV_Series/VampireVsVampire_1989_HongKong/VampireVsVampire_1989_HongKong.mp4/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="axnhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png", AXN | 1080P
+#EXTINF:-1 tvg-id="axn" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png", AXN | 1080P
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="axnhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png", AXN | 720P
+#EXTINF:-1 tvg-id="axn" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png", AXN | 720P
 https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="KÊNH QUỐC TẾ"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/1280px-Arirang-TV-Logo.svg.png", ARIRANG | 1080P
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
@@ -287,7 +287,7 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
 #EXTINF:-1 tvg-id="ANIMAX" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1200px-Animax_logo.svg.png", ANIMAX
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist_b250000.m3u8
-#EXTINF:-1 tvg-id="animalhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1280px-2018_Animal_Planet_logo.svg.png", Animal Planet
+#EXTINF:-1 tvg-id="animal_planet" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1280px-2018_Animal_Planet_logo.svg.png", Animal Planet
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="asian_food_channel" group-title="KÊNH QUỐC TẾ" tvg-logo="http://htvc.vn/uploads/channel/2019/11/28/2139383-afn-logo-cmyk-f.png", Asian Food Network
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
@@ -321,7 +321,7 @@ https://livecdn.fptplay.net/qnetlive/cnn_2000.stream/chunklist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="channel_v" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/200px-Channel_V_Logo.svg.png", Channel V | 720p
 http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="cartoonhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png", Cartoon Network HD
+#EXTINF:-1 tvg-id="cartoon_network" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png", Cartoon Network HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Kweslogo.png", CBS
 http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
@@ -359,9 +359,9 @@ https://livecdn.fptplay.net/world/france24_hls.smil/chunklist_b2500000.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="fox_movies" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1000px-Fox_Movies_%28Asia%29_logo.svg.png", FOX Movies | 720P
 http://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="foxlifehd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Fox-Life.png", FOX LIFE | 1080P
+#EXTINF:-1 tvg-id="fox_life" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Fox-Life.png", FOX LIFE | 1080P
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="foxlifehd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Fox-Life.png", FOX LIFE | 720P
+#EXTINF:-1 tvg-id="fox_life" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Fox-Life.png", FOX LIFE | 720P
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://www.davincikids.tv/wp-content/uploads/2019/12/Da-Vinci-Primary-Logo-RGB.png",Da Vinci
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8?
