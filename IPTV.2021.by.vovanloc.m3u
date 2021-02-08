@@ -337,8 +337,6 @@ http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/200px-HBO_Signature_Asia.png", HBO Signature
 http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/G34BqsC/eumusiclogobyvovanloc.png", EU MUSIC
-http://36.37.252.114:888/Apple/ONETV-060/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/do0MLyS.png", EURO NEWS
 http://36.37.252.114:888/Apple/OneTV-047/playlist.m3u8
 #EXTINF:-1 tvg-id="fox" group-title="KÊNH QUỐC TẾ" tvg-logo="https://htvc.vn/uploads/editor/images/724_300.png", FOX HD | 1080P
