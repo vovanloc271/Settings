@@ -128,11 +128,11 @@ http://36.37.252.114:888/Apple/OneTV-111/playlist.m3u8
 https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="thvl2" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Logo_THVL2_HD.png", Vĩnh Long 2 | 1080p
 http://36.37.252.114:888/Apple/OneTV-112/playlist.m3u8
-#EXTINF:-1 tvg-id="thvl3" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Logo_THVL2_HD.png", Vĩnh Long 2 | 720P
+#EXTINF:-1 tvg-id="thvl2" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Logo_THVL2_HD.png", Vĩnh Long 2 | 720P
 https://livecdn.fptplay.net/sdb/vinhlong2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="thvl4" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Logo_THVL3_HD.png", Vĩnh Long 3 HD
+#EXTINF:-1 tvg-id="thvl3" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Logo_THVL3_HD.png", Vĩnh Long 3 HD
 https://livecdn.fptplay.net/hda/vinhlong3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vinhlong4" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Logo_THVL4_HD.png", Vĩnh Long 4 HD
+#EXTINF:-1 tvg-id="thvl4" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Logo_THVL4_HD.png", Vĩnh Long 4 HD
 https://livecdn.fptplay.net/hda/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://img.hplus.com.vn/355x200/poster/2018/06/04/269136-VinhPhuc.png", Vĩnh Phúc HD
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream_720p/chunklist.m3u8
