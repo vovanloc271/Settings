@@ -363,8 +363,8 @@ http://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="fox_life" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Fox-Life.png", FOX LIFE | 720P
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://www.davincikids.tv/wp-content/uploads/2019/12/Da-Vinci-Primary-Logo-RGB.png",Da Vinci
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8?
+#EXTINF:-1 tvg-id="da_vinci_kids" group-title="KÊNH QUỐC TẾ" tvg-logo="https://www.davincikids.tv/wp-content/uploads/2019/12/Da-Vinci-Primary-Logo-RGB.png", Da Vinci Kids
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="nhk_world" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/cnMuKG4.jpg", NHK WORLD JAPAN
 https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1 tvg-id="national_geographic" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1024px-National_Geographic_Channel.svg.png", National Geographic HD
@@ -379,9 +379,9 @@ https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
 #EXTINF:-1 tvg-id="kbs_world" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/SefEfRO.png", KBS World | 720P
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/KBS-HD-720p/playlist.m3u8
-#EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://effectv.com/sites/default/files/networks/Discovery%20Stacked.png" group-title="KÊNH QUỐC TẾ", Discovery Channel | 1080p
+#EXTINF:-1 tvg-id="discovery" tvg-logo="https://effectv.com/sites/default/files/networks/Discovery%20Stacked.png" group-title="KÊNH QUỐC TẾ", Discovery Channel | 1080p
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="discoveryhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://effectv.com/sites/default/files/networks/Discovery%20Stacked.png", Discovery Channel | 720p
+#EXTINF:-1 tvg-id="discovery" group-title="KÊNH QUỐC TẾ" tvg-logo="https://effectv.com/sites/default/files/networks/Discovery%20Stacked.png", Discovery Channel | 720p
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="discovery_asia" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/3p1JnX4/Discovery-Asialogobyvovanloc.png", Discovery Asia
 http://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
