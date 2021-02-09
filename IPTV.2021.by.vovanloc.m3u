@@ -510,9 +510,9 @@ http://92.43.140.200/s82/04.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg", Star Sports
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports?checkedby
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/LS2PSpt.png", EURO SPORT 1 (Chọn HW)👉
-http://185.238.0.145:1313/c/livedo/eurosport1.m3u8
+http://160.119.77.116:8081/iptv/uk-eurosport.stream/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-2-HD.png", EURO SPORT 2 (Chọn HW)👉
-http://185.238.0.145:1313/c/livedo/eurosport2.m3u8
+http://160.119.77.116:8081/iptv/uk-eurosport2.stream/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/MsS4vJQ.png", Sky Racing 1
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/2xjPuAH.png", Sky Racing 2
