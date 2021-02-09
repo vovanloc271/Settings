@@ -197,7 +197,7 @@ https://bom.to/sctv20sd
 https://bom.to/sctvphimtonghopsd
 #EXTINF:-1 tvg-id="sctv22" group-title="SCTV (Nguồn Chungxda🚫)" tvg-logo="https://i.ibb.co/41vdS5q/sctv22logobyvovanloc.png", SCTV22 HD - Ssport 1
 https://chungxda.github.io/m3u8/SCTV/SCTV22.m3u8
-#EXTINF:-1 tvg-id="s_sport_3" group-title="SCTV" tvg-logo="https://i.ibb.co/TMgwd6v/btv5logobyvovanloc.png", BTV5 - Ssport 3
+#EXTINF:-1 tvg-id="s_sport_3" group-title="SCTV (Nguồn Chungxda🚫)" tvg-logo="https://i.ibb.co/TMgwd6v/btv5logobyvovanloc.png", BTV5 - Ssport 3
 https://bom.to/btv5sd
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.ibb.co/yXjF0dk/htv1logobyvovanloc.png", HTV1
