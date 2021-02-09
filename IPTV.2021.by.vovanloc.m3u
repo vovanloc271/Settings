@@ -493,8 +493,6 @@ https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.thesportsdb.com/images/media/logo/vvvqxp1470408443.png", SPORT.TV 5 HD (Chọn HW)👉
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/4R7kXkv/mutvlogobyvovanloc.png", MUTV (Chọn HW)👉
-https://www.livedoomovie.com/02_MUTV_720p/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/sDxJj7C.png", Sky Sports Premier League
 http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_F1_-_Logo_2018.svg/1280px-Sky_Sport_F1_-_Logo_2018.svg.png", Sky Sports F1
@@ -509,9 +507,9 @@ http://92.43.140.200/s81/04.m3u8
 http://92.43.140.200/s82/04.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg", Star Sports
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports?checkedby
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/LS2PSpt.png", EURO SPORT 1 (Chọn HW)👉
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/LS2PSpt.png", EURO SPORT 1 HD
 http://160.119.77.116:8081/iptv/uk-eurosport.stream/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-2-HD.png", EURO SPORT 2 (Chọn HW)👉
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-2-HD.png", EURO SPORT 2 HD
 http://160.119.77.116:8081/iptv/uk-eurosport2.stream/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/MsS4vJQ.png", Sky Racing 1
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
