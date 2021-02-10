@@ -313,6 +313,10 @@ https://livecdn.fptplay.net/sda/vietteen_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/sdc/btv9_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="anvien" group-title="KHÁC" tvg-logo="https://anvienhd.net/uploads/images/hinhanh/3127455c766024676a4.70187032.png",BTV10 - NCM
 https://livecdn.fptplay.net/sda/ncm_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="hanoicab2_youtv" group-title="KHÁC" tvg-logo="https://i.ibb.co/N7LhDxM/youtvlogobyvovanloc.png", YouTV - HanoiCab2
+http://quangvinh997.duckdns.org:8889/udp/225.1.1.207:30120
+#EXTINF:-1 group-title="KHÁC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1280px-MTV_Logo.svg.png", MTV
+http://quangvinh997.duckdns.org:8889/udp/225.1.1.245:30120
 #EXTINF:-1 group-title="KHÁC" tvg-logo="https://i.imgur.com/Zg0rDaS.jpg", Phim lẻ: Nhất My Đạo Nhân - Vampire Vs Vampire
 https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/OTT/TV_Series/VampireVsVampire_1989_HongKong/VampireVsVampire_1989_HongKong.mp4/chunklist.m3u8
 
