@@ -382,6 +382,12 @@ http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/200px-HBO_Signature_Asia.png", HBO Signature
 http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
+#EXTINF:-1 tvg-id="disney_junior" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/800px-Disney_Junior.svg.png", Disney Junior
+http://quangvinh997.duckdns.org:8889/udp/225.1.1.233:30120
+#EXTINF:-1 tvg-id="disney_channel" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/800px-2019_Disney_Channel_logo.svg.png", Disney Channel
+http://quangvinh997.duckdns.org:8889/udp/225.1.2.158:30120
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/b/bb/DreamWorks_Animation_SKG_logo.svg.png", Dreamworks
+http://quangvinh997.duckdns.org:8889/udp/225.1.1.136:30120
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/do0MLyS.png", EURO NEWS
 http://36.37.252.114:888/Apple/OneTV-047/playlist.m3u8
 #EXTINF:-1 tvg-id="fox" group-title="KÊNH QUỐC TẾ" tvg-logo="https://htvc.vn/uploads/editor/images/724_300.png", FOX HD | 1080P
