@@ -249,7 +249,7 @@ https://livecdn.fptplay.net/sdc/anninhtv_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="quoc_hoi_tv" group-title="KHÁC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/17/KenhQuocHoi_logo.png", Quốc Hội | 1080p
 http://36.37.252.114:888/Apple/OneTV-106/playlist.m3u8
 #EXTINF:-1 tvg-id="quoc_hoi_tv" group-title="KHÁC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/17/KenhQuocHoi_logo.png", Quốc Hội | 720p
-http://113.164.225.140:1935/live/quochoitvlive.stream_720p/chunklist_w1307818628.m3u8
+https://livecdn.fptplay.net/sdc/quochoivn_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 tvg-id="quoc_phong_tv" group-title="KHÁC" tvg-logo="http://qpvn.vn/uploads/site/703a04fed6e5d0fb9aaf41941140ff3805c0ae9a.png", Quốc Phòng Việt Nam HD
 https://livecdn.fptplay.net/sdc/quocphongvnhd_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="nhan_dan_tv" group-title="KHÁC" tvg-logo="https://img.hplus.com.vn/1180x665/banner/2018/06/05/255092-Nhandan.png", Nhân Dân TV | 1080P
