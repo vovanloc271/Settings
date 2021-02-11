@@ -157,49 +157,6 @@ https://livecdn.fptplay.net/sdc/dienbien_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://mytv.com.vn/upload/channel/471.png", Đắk Lắk
 https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="sctv1" group-title="SCTV (Nguồn Chungxda🚫)" tvg-logo="https://i.ibb.co/7WG7TzC/sctv1logobyvovanloc.png", SCTV1 HD - Hài
-https://chungxda.github.io/m3u8/SCTV/SCTV1HD.m3u8
-#EXTINF:-1 tvg-id="sctv2_hd" group-title="SCTV (Nguồn Chungxda🚫)" tvg-logo="https://i.ibb.co/HgJ7K7q/sctv2logobyvovanloc.png", SCTV2 - AMC TV
-https://chungxda.github.io/m3u8/SCTV/SCTV2.m3u8
-#EXTINF:-1 tvg-id="sctv3_see_tv" group-title="SCTV (Nguồn Chungxda🚫)" tvg-logo="https://i.ibb.co/DKpPqqT/sctv3logobyvovanloc.png", SCTV3 HD - SEE TV
-https://chungxda.github.io/m3u8/SCTV/SCTV3HD.m3u8
-#EXTINF:-1 tvg-id="sctv4" group-title="SCTV (Nguồn Chungxda🚫)" tvg-logo="https://i.ibb.co/yFXT4p4/sctv4logobyvovanloc.png", SCTV4 HD - Giải Trí Tổng Hợp
-https://chungxda.github.io/m3u8/SCTV/SCTV4.m3u8
-#EXTINF:-1 tvg-id="sctv6_hd" group-title="SCTV (Nguồn Chungxda🚫)" tvg-logo="https://i.ibb.co/ZznQqdV/sctv6logobyvovanloc.png", SCTV6 - SNTV Thế Hệ Mới
-https://chungxda.github.io/m3u8/SCTV/SCTV6HD.m3u8
-#EXTINF:-1 tvg-id="sctv7_hd" group-title="SCTV (Nguồn Chungxda🚫)" tvg-logo="https://i.ibb.co/whXPqdN/sctv7logobyvovanloc.png", SCTV7 - Sân Khấu
-https://chungxda.github.io/m3u8/SCTV/SCTV7.m3u8
-#EXTINF:-1 tvg-id="sctv8" group-title="SCTV (Nguồn Chungxda🚫)" tvg-logo="https://i.ibb.co/2SLQT1m/sctv8logobyvovanloc.png", SCTV8 - VITV Kinh Tế
-https://chungxda.github.io/m3u8/SCTV/SCTV8.m3u8
-#EXTINF:-1 tvg-id="sctv9" group-title="SCTV (Nguồn Chungxda🚫)" tvg-logo="https://i.ibb.co/rZDRFJS/sctv9logobyvovanloc.png", SCTV9 HD - Phim Châu Á
-https://chungxda.github.io/m3u8/SCTV/SCTV9HD.m3u8
-#EXTINF:-1 tvg-id="sctv11_tv_star" group-title="SCTV (Nguồn Chungxda🚫)" tvg-logo="https://i.ibb.co/TvWFbb0/sctv11logobyvovanloc.png" type="stream", SCTV11 HD - STAR
-https://chungxda.github.io/m3u8/SCTV/SCTV11HD.m3u8
-#EXTINF:-1 tvg-id="sctv12" group-title="SCTV (Nguồn Chungxda🚫)" tvg-logo="https://i.ibb.co/z8DXKJ3/sctv12logobyvovanloc.png", SCTV12 HD - Du Lịch
-https://chungxda.github.io/m3u8/SCTV/SCTV12HD.m3u8
-#EXTINF:-1 tvg-id="sctv13_lady_tv" group-title="SCTV (Nguồn Chungxda🚫)" tvg-logo="https://i.ibb.co/KVX8j3t/sctv13logobyvovanloc.png", SCTV13 - Lady TV
-https://chungxda.github.io/m3u8/SCTV/SCTV13.m3u8
-#EXTINF:-1 tvg-id="sctv14_kenh_phim_viet" group-title="SCTV (Nguồn Chungxda🚫)" tvg-logo="https://i.ibb.co/2qJdRgJ/sctv14logobyvovanloc.png", SCTV 14 HD - Phim Việt
-https://chungxda.github.io/m3u8/SCTV/SCTV14.m3u8
-#EXTINF:-1 tvg-id="sctv15_s_sport_2" group-title="SCTV (Nguồn Chungxda🚫)" tvg-logo="https://i.ibb.co/WHQSBSr/sctv15logobyvovanloc.png", SCTV15 HD - Ssport 2
-https://chungxda.github.io/m3u8/SCTV/SCTV15.m3u8
-#EXTINF:-1 tvg-id="sctv16" group-title="SCTV (Nguồn Chungxda🚫)" tvg-logo="https://i.ibb.co/s6YzcXd/sctv16logobyvovanloc.png", SCTV16 HD - Phim Nước Ngoài Đặc Sắc
-https://chungxda.github.io/m3u8/SCTV/SCTV16HD.m3u8
-#EXTINF:-1 tvg-id="sctv17_hd" group-title="SCTV (Nguồn Chungxda🚫)" tvg-logo="https://i.ibb.co/P4Hxh1R/sctv17logobyvovanloc.png", SCTV17 HD - Ssport
-https://chungxda.github.io/m3u8/SCTV/SCTV17HD.m3u8
-#EXTINF:-1 tvg-id="sctv18_hd_kenh_18" group-title="SCTV (Nguồn Chungxda🚫)" tvg-logo="https://i.ibb.co/VYjXcYF/sctv18logobyvovanloc.png", SCTV18 HD
-https://chungxda.github.io/m3u8/SCTV/SCTV18.m3u8
-#EXTINF:-1 tvg-id="sctv19" group-title="SCTV (Nguồn Chungxda🚫)" tvg-logo="https://i.ibb.co/pw3Qvcf/sctv19logobyvovanloc.png", SCTV19 HD - Channel T
-https://chungxda.github.io/m3u8/SCTV/SCTV19.m3u8
-#EXTINF:-1 tvg-id="sctv20_ca_nhac" group-title="SCTV (Nguồn Chungxda🚫)" tvg-logo="https://i.ibb.co/Jq51kcR/sctv20logobyvovanloc.png", SCTV20 HD - Ca Nhạc
-https://bom.to/sctv20sd
-#EXTINF:-1 tvg-id="sctv_phim_tong_hop_hd" group-title="SCTV (Nguồn Chungxda🚫)" tvg-logo="https://i.ibb.co/PcR2ztv/sctvpthbyvovanloc.png", SCTV HD Phim Tổng Hợp
-https://bom.to/sctvphimtonghopsd
-#EXTINF:-1 tvg-id="sctv22" group-title="SCTV (Nguồn Chungxda🚫)" tvg-logo="https://i.ibb.co/41vdS5q/sctv22logobyvovanloc.png", SCTV22 HD - Ssport 1
-https://chungxda.github.io/m3u8/SCTV/SCTV22.m3u8
-#EXTINF:-1 tvg-id="s_sport_3" group-title="SCTV (Nguồn Chungxda🚫)" tvg-logo="https://i.ibb.co/TMgwd6v/btv5logobyvovanloc.png", BTV5 - Ssport 3
-https://bom.to/btv5sd
-
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.ibb.co/yXjF0dk/htv1logobyvovanloc.png", HTV1
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv2" group-title="HTV" tvg-logo="https://i.ibb.co/3hWyJYk/htv2logobyvovanloc.png", HTV2 - Vie Channel
