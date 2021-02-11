@@ -255,7 +255,7 @@ https://livecdn.fptplay.net/sdc/quocphongvnhd_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="nhan_dan_tv" group-title="KHÁC" tvg-logo="https://img.hplus.com.vn/1180x665/banner/2018/06/05/255092-Nhandan.png", Nhân Dân TV | 1080P
 http://36.37.252.114:888/Apple/OneTV-109/playlist.m3u8
 #EXTINF:-1 tvg-id="nhan_dan_tv" group-title="KHÁC" tvg-logo="https://img.hplus.com.vn/1180x665/banner/2018/06/05/255092-Nhandan.png", Nhân Dân TV | 720P
-https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915633964.m3u8
+https://htv-drm-live-cdn.fptplay.net:443/CDN-FPT02/NHANDAN-SD-ABR/HTV-ABR/NHANDAN-SD-720p/chunks.m3u8
 #EXTINF:-1 tvg-id="ttxvn" group-title="KHÁC" tvg-logo="https://i.imgur.com/ziUs8oD.png", VNews | 1080P
 http://36.37.252.114:888/Apple/OneTV-110/playlist.m3u8
 #EXTINF:-1 tvg-id="ttxvn" group-title="KHÁC" tvg-logo="https://i.imgur.com/ziUs8oD.png", VNews | 720P
