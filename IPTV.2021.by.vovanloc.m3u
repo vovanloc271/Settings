@@ -518,11 +518,11 @@ https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.imgur.com/PEnSdCL.png", Nippon TV HD
 https://sotalcloud.live-s.cdn.bitgravity.com/cdn-live/_definst_/sotalcloud/live/DYA_004/playlist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.imgur.com/8KjuKrH.png", TBS HD
-https://sotalcloud.live-s.cdn.bitgravity.com/cdn-live/_definst_/sotalcloud/live/DYA_006/playlist.m3u8
+http://203.162.235.41:16907
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1280px-TV_Tokyo_logo_20110629.svg.png" group-title="NHẬT BẢN", TV TOKYO HD
 https://sotalcloud.live-s.cdn.bitgravity.com/cdn-live/_definst_/sotalcloud/live/DYA_007/playlist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png", TV Asahi HD
-https://sotalcloud.live-s.cdn.bitgravity.com/cdn-live/_definst_/sotalcloud/live/DYA_005/playlist.m3u8
+http://203.162.235.41:16906
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.imgur.com/qvpNF9v.jpg", TOKYO MX 1 HD
 https://sotalcloud.live-s.cdn.bitgravity.com/cdn-live/_definst_/sotalcloud/live/DYA_009/playlist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.imgur.com/2yZJaBq.jpg" group-title="NHẬT BẢN", TOKYO MX 2
