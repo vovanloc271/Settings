@@ -277,143 +277,143 @@ http://quangvinh997.duckdns.org:8889/udp/225.1.1.245:30120
 #EXTINF:-1 group-title="KHÁC" tvg-logo="https://i.imgur.com/Zg0rDaS.jpg", Phim lẻ: Nhất My Đạo Nhân - Vampire Vs Vampire
 https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/OTT/TV_Series/VampireVsVampire_1989_HongKong/VampireVsVampire_1989_HongKong.mp4/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="axn" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png", AXN | 1080P
+#EXTINF:-1 tvg-id="axn" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/fQySbyW/axnlogobyvovanloc.png", AXN | 1080P
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="axn" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png", AXN | 720P
+#EXTINF:-1 tvg-id="axn" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/fQySbyW/axnlogobyvovanloc.png", AXN | 720P
 https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="arirang" group-title="KÊNH QUỐC TẾ"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/1280px-Arirang-TV-Logo.svg.png", ARIRANG | 1080P
+#EXTINF:-1 tvg-id="arirang" group-title="KÊNH QUỐC TẾ"  tvg-logo="https://i.ibb.co/PCTVq50/Ariranglogobyvovanloc.png", ARIRANG | 1080P
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 tvg-id="arirang" group-title="KÊNH QUỐC TẾ"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/1280px-Arirang-TV-Logo.svg.png", ARIRANG | 720P
+#EXTINF:-1 tvg-id="arirang" group-title="KÊNH QUỐC TẾ"  tvg-logo="https://i.ibb.co/PCTVq50/Ariranglogobyvovanloc.png", ARIRANG | 720P
 http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
-#EXTINF:-1 tvg-id="ANIMAX" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1200px-Animax_logo.svg.png", ANIMAX
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/2y38WHL/animaxlogobyvovanloc.png", ANIMAX
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist_b250000.m3u8
-#EXTINF:-1 tvg-id="animal_planet" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1280px-2018_Animal_Planet_logo.svg.png", Animal Planet
+#EXTINF:-1 tvg-id="animal_planet" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/KDDZzPB/Animal-Planetlogobyvovanloc.png", Animal Planet
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="asian_food_channel" group-title="KÊNH QUỐC TẾ" tvg-logo="http://htvc.vn/uploads/channel/2019/11/28/2139383-afn-logo-cmyk-f.png", Asian Food Network
+#EXTINF:-1 tvg-id="asian_food_channel" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/4fZs4BK/Asian-Food-Networklogobyvovanloc.png", Asian Food Network
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="abc_australia" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/1200px-ABC_Australia_logo.svg.png", ABC Australia
+#EXTINF:-1 tvg-id="abc_australia" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/D8VtZRB/ABCAustralialogobyvovanloc.png", ABC Australia
 https://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="boomerang" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/PKOlWpr.png", BOMMERANG
+#EXTINF:-1 tvg-id="boomerang" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/6PcT36X/boomeranglogobyvovanloc.png", BOMMERANG
 http://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="cbeebies" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/oD53jAs.png", BBC CBEEBIES
+#EXTINF:-1 tvg-id="cbeebies" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/sCjXR0T/cbeebieslogobyvovanloc.png", BBC CBEEBIES
 https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="bbc_world_news" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1280px-BBC_News.svg.png", BBC World News
+#EXTINF:-1 tvg-id="bbc_world_news" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/tXCWQ5N/BBCNewslogobyvovanloc.png", BBC World News
 https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="bbc_earth" group-title="KÊNH QUỐC TẾ" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg" group-title="KÊNH QUỐC TẾ", BBC Earth
+#EXTINF:-1 tvg-id="bbc_earth" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/txj3bLH/BBCEarthlogobyvovanloc.png" group-title="KÊNH QUỐC TẾ", BBC Earth
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="bbc_lifestyle" group-title="KÊNH QUỐC TẾ", BBC Lifestyle
+#EXTINF:-1 tvg-id="bbc_lifestyle" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/ctpyHTQ/BBCLifestylelogobyvovanloc.png", BBC Lifestyle
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://seeklogo.com/images/B/babyfirst-tv-logo-B87A17BB2F-seeklogo.com.png", Baby First
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/Kb9TTcY/babyfirstlogobyvovanloc.png", Baby First
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="blue_ant_entertainment" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" , Blue Ant Entertainment
+#EXTINF:-1 tvg-id="blue_ant_entertainment" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/Dpf6PDv/Blue-ante-ntertainmentlogobyvovanloc.png" , Blue Ant Entertainment
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="blue_ant_extreme" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png", Blue Ant Extreme
+#EXTINF:-1 tvg-id="blue_ant_extreme" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/RBVkmhz/Blue-ant-extremelogobyvovanloc.png", Blue Ant Extreme
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/IdpwGJP.png", BLOOMBERG
 https://livecdn.fptplay.net/qnetlive/bloomberg_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png", Cinema World
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/YPVNFqk/Cinema-Worldlogobyvovanloc.png", Cinema World
 https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="cna_channel_news_asia" group-title="KÊNH QUỐC TẾ" tvg-logo="https://mytv.com.vn/upload/channel/146.png", CNA
+#EXTINF:-1 tvg-id="cna_channel_news_asia" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/2dvptZN/CNAlogobyvovanloc.png", Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="cnn" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/900px-CNN.svg.png", CNN
+#EXTINF:-1 tvg-id="cnn" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/0yBr6XK/CNNlogobyvovanloc.png", Cable News Network
 https://livecdn.fptplay.net/qnetlive/cnn_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="channel_v" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/200px-Channel_V_Logo.svg.png", Channel V | 1080p
+#EXTINF:-1 tvg-id="channel_v" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/QQYVVH7/Channel-Vlogobyvovanloc.png", Channel V | 1080p
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="channel_v" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/200px-Channel_V_Logo.svg.png", Channel V | 720p
+#EXTINF:-1 tvg-id="channel_v" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/QQYVVH7/Channel-Vlogobyvovanloc.png", Channel V | 720p
 http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="cartoon_network" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png", Cartoon Network HD
+#EXTINF:-1 tvg-id="cartoon_network" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/N3p6FbN/Cartoon-Networklogobyvovanloc.png", Cartoon Network HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Kweslogo.png", CBS
 http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/QCSeNYK.png",CGTN
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/V9jNktF/CGTNlogobyvovanloc.png",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-id="max_by_hbo" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png", CINEMAX (Quốc Tế)
-http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
-#EXTINF:-1 tvg-id="max_by_hbo" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png", CINEMAX (Viet Sub)
+#EXTINF:-1 tvg-id="max_by_hbo" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/xMY0R2p/cinemaxlogobyvovanloc.png", CINEMAX (VietSub)
 http://quangvinh997.duckdns.org:8889/udp/225.1.2.86:30120
-#EXTINF:-1 tvg-id="red_by_hbo" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/pf0FCnT.png", Red by HBO
+#EXTINF:-1 tvg-id="max_by_hbo" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/xMY0R2p/cinemaxlogobyvovanloc.png", CINEMAX (Quốc Tế)
+http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
+#EXTINF:-1 tvg-id="red_by_hbo" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/hWsGtN7/REDby-HBOlogobyvovanloc.png", Red by HBO
 http://quangvinh997.duckdns.org:8889/udp/225.1.1.93:30120
 #EXTINF:-1 tvg-id="hbo" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/LxjKRfz/hbologobyvovanloc.png", HBO HD (VIETSUB)
 http://quangvinh997.duckdns.org:8889/udp/225.1.4.90:30120
 #EXTINF:-1 tvg-id="hbo" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/LxjKRfz/hbologobyvovanloc.png", HBO SD (Quốc Tế)
 http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/jTJwiNo.png", HBO HITS
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/6sFyDLT/HBOHitslogobyvovanloc.png", HBO HITS
 http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/SJYAGsj.png", HBO FAMILY
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/18jrZjw/HBOFamilylogobyvovanloc.webp", HBO FAMILY
 http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/200px-HBO_Signature_Asia.png", HBO Signature
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/k2sQDfF/HBOSignaturelogobyvovanloc.png", HBO Signature
 http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
-#EXTINF:-1 tvg-id="disney_junior" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/800px-Disney_Junior.svg.png", Disney Junior
+#EXTINF:-1 tvg-id="disney_junior" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/qDbyjz1/Disney-Juniorlogobyvovanloc.png", Disney Junior
 http://quangvinh997.duckdns.org:8889/udp/225.1.1.233:30120
-#EXTINF:-1 tvg-id="disney_channel" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/800px-2019_Disney_Channel_logo.svg.png", Disney Channel
+#EXTINF:-1 tvg-id="disney_channel" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/PzZq565/Disney-Channellogobyvovanloc.png", Disney Channel
 http://quangvinh997.duckdns.org:8889/udp/225.1.2.158:30120
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/b/bb/DreamWorks_Animation_SKG_logo.svg.png", Dreamworks
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/qJ5t54v/Dream-Workslogobyvovanloc.png", Dreamworks
 http://quangvinh997.duckdns.org:8889/udp/225.1.1.136:30120
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/do0MLyS.png", EURO NEWS
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/X43JVn9/euronewslogobyvovanloc.png", EURO NEWS
 http://36.37.252.114:888/Apple/OneTV-047/playlist.m3u8
-#EXTINF:-1 tvg-id="fox" group-title="KÊNH QUỐC TẾ" tvg-logo="https://htvc.vn/uploads/editor/images/724_300.png", FOX HD | 1080P
+#EXTINF:-1 tvg-id="fox" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/KjFZBbx/foxhdlogobyvovanloc.png", FOX HD | 1080P
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8?
-#EXTINF:-1 tvg-id="fox" group-title="KÊNH QUỐC TẾ" tvg-logo="https://htvc.vn/uploads/editor/images/724_300.png", FOX HD | 720P
+#EXTINF:-1 tvg-id="fox" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/KjFZBbx/foxhdlogobyvovanloc.png", FOX HD | 720P
 http://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="fox_family_movies" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Fox_Family_Movies_logo.png", FOX FAMILY MOVIES | 1080P
+#EXTINF:-1 tvg-id="fox_family_movies" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/KWVt4SN/Fox-Family-Movieslogobyvovanloc.png", FOX FAMILY MOVIES | 1080P
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8?
-#EXTINF:-1 tvg-id="fox_family_movies" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Fox_Family_Movies_logo.png", FOX FAMILY MOVIES | 720P
+#EXTINF:-1 tvg-id="fox_family_movies" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/KWVt4SN/Fox-Family-Movieslogobyvovanloc.png", FOX FAMILY MOVIES | 720P
 http://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/R8yMi8J.png", FOX ACTION MOVIES
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/tDmtwBN/Fox-Action-Movieslogobyvovanloc.png", FOX ACTION MOVIES
 http://tvku.live:8888/provision/pp/99
-#EXTINF:-1 tvg-id="france_24" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png", France 24 HD
-http://36.37.252.114:888/Apple/OneTV-045/playlist.m3u8
-#EXTINF:-1 tvg-id="france_24" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png", France 24 SD
-https://livecdn.fptplay.net/world/france24_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="fox_movies" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1000px-Fox_Movies_%28Asia%29_logo.svg.png", FOX Movies | 1080p
+#EXTINF:-1 tvg-id="fox_movies" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/DDhp3Y2/foxmovieslogobyvovanloc.png", FOX Movies | 1080p
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="fox_movies" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1000px-Fox_Movies_%28Asia%29_logo.svg.png", FOX Movies | 720P
+#EXTINF:-1 tvg-id="fox_movies" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/DDhp3Y2/foxmovieslogobyvovanloc.png", FOX Movies | 720P
 http://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="fox_life" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Fox-Life.png", FOX LIFE | 1080P
+#EXTINF:-1 tvg-id="fox_life" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/tZJbf62/Foxlifelogobyvovanloc.png", FOX LIFE | 1080P
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="fox_life" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Fox-Life.png", FOX LIFE | 720P
+#EXTINF:-1 tvg-id="fox_life" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/tZJbf62/Foxlifelogobyvovanloc.png", FOX LIFE | 720P
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="da_vinci_kids" group-title="KÊNH QUỐC TẾ" tvg-logo="https://www.davincikids.tv/wp-content/uploads/2019/12/Da-Vinci-Primary-Logo-RGB.png", Da Vinci Kids
+#EXTINF:-1 tvg-id="france_24" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/m8R3QjW/France24logobyvovanloc.png", France 24 HD
+http://36.37.252.114:888/Apple/OneTV-045/playlist.m3u8
+#EXTINF:-1 tvg-id="france_24" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/m8R3QjW/France24logobyvovanloc.png", France 24 SD
+https://livecdn.fptplay.net/world/france24_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="da_vinci_kids" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/6D31ZYJ/Davincikidslogobyvovanloc.png", Da Vinci Kids
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="nhk_world" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/cnMuKG4.jpg", NHK WORLD JAPAN
+#EXTINF:-1 tvg-id="nhk_world" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/P9Bg12T/NHKWorldlogobyvovanloc.webp", NHK WORLD JAPAN
 https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:-1 tvg-id="national_geographic" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1024px-National_Geographic_Channel.svg.png", National Geographic HD
+#EXTINF:-1 tvg-id="national_geographic" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/F8J2zvg/National-Geographic-Channellogobyvovanloc.png", National Geographic HD
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://img.hplus.com.vn/460x260/poster/2019/07/16/198549-nat_geo_wild.png", Nat Geo WILD HD
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/10r9SJT/natgeowildlogobyvovanloc.png", Nat Geo WILD HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/OoOW1at.png", NASA TV
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/G9xvRJZ/nasalogobyvovanloc.png", NASA TV
 http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 tvg-id="kix_hd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://sites.google.com/site/vtvcaber/kix-hd-vtvcab-logo.png", KIX HD
+#EXTINF:-1 tvg-id="kix_hd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/4ZYdX8g/kidhdlogobyvovanloc.png", KIX HD
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="kbs_world" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/SefEfRO.png", KBS World | 1080P
+#EXTINF:-1 tvg-id="kbs_world" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/pRq2cv7/KBSWorldlogobyvovanloc.png", KBS World | 1080P
 http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
-#EXTINF:-1 tvg-id="kbs_world" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/SefEfRO.png", KBS World | 720P
+#EXTINF:-1 tvg-id="kbs_world" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/pRq2cv7/KBSWorldlogobyvovanloc.png", KBS World | 720P
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/KBS-HD-720p/playlist.m3u8
-#EXTINF:-1 tvg-id="discovery" tvg-logo="https://effectv.com/sites/default/files/networks/Discovery%20Stacked.png" group-title="KÊNH QUỐC TẾ", Discovery Channel | 1080p
+#EXTINF:-1 tvg-id="discovery" tvg-logo="https://i.ibb.co/sJ5fzcr/Discoverylogobyvovanloc.png" group-title="KÊNH QUỐC TẾ", Discovery Channel | 1080P
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="discovery" group-title="KÊNH QUỐC TẾ" tvg-logo="https://effectv.com/sites/default/files/networks/Discovery%20Stacked.png", Discovery Channel | 720p
+#EXTINF:-1 tvg-id="discovery" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/sJ5fzcr/Discoverylogobyvovanloc.png", Discovery Channel | 720P
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="discovery_asia" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/3p1JnX4/Discovery-Asialogobyvovanloc.png", Discovery Asia
 http://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="dw" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/NaJrOIz.png", DW News
+#EXTINF:-1 tvg-id="dw" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/TRHnsZx/dwnewslogobyvovanloc.png", DW News
 https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="outdoor_channel" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/RJwaiHH.png", Outdoor Channel
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="fashion_tv" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/800px-Fashion_TV_logo.svg.png", Fashion TV
+#EXTINF:-1 tvg-id="fashion_tv" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/DLhCJ42/Fashion-TVlogobyvovanloc.png", Fashion TV
 https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://img.hplus.com.vn/226x127/poster/2020/08/03/744316-Paramount-xanh-fix.png",Paramount Network
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/jrFY82v/Paramount-Networklogobyvovanloc.png",Paramount Network
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
-#EXTINF:-1 tvg-id="tv5monde_asie" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV5Monde_Logo.svg/1280px-TV5Monde_Logo.svg.png", TV5 Monde Asia
+#EXTINF:-1 tvg-id="tv5monde_asie" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/r3WNN61/TV5-Mondelogobyvovanloc.png", TV5 Monde Asia
 https://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="tlc" group-title="KÊNH QUỐC TẾ" tvg-logo="https://www.tlc-tw.com/images/logo.png", TLC
+#EXTINF:-1 tvg-id="tlc" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/yqybFxh/TLClogobyvovanloc.png", TLC
 http://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png", RT News
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/0F7Wb96/RTnewslogobyvovanloc.png", RT News
 http://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Newsmax_TV_Logo.png", NewsMax
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/3Tg9WgV/newsmaxlogobyvovanloc.png", NewsMax
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
-#EXTINF:-1 tvg-id="warner_tv_hd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://imgur.com/9qJI1Mg.png", Warner TV
+#EXTINF:-1 tvg-id="warner_tv_hd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/ZHmSGDH/Warner-TVlogobyvovanloc.png", Warner TV
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
-#EXTINF:-1 tvg-id="warner_tv_hd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://imgur.com/9qJI1Mg.png", Warner TV (Server 2)
+#EXTINF:-1 tvg-id="warner_tv_hd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/ZHmSGDH/Warner-TVlogobyvovanloc.png", Warner TV (Server 2)
 https://livecdn.fptplay.net/qnetlive/warnertv_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png", BeIN Sport 1 HD (Chọn HW)👉
