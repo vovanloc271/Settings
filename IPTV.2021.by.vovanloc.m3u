@@ -524,9 +524,9 @@ http://203.162.235.41:16908
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png", TV Asahi
 http://203.162.235.41:16906
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.imgur.com/qvpNF9v.jpg", TOKYO MX 1 HD
-https://sotalcloud.live-s.cdn.bitgravity.com/cdn-live/_definst_/sotalcloud/live/DYA_009/playlist.m3u8
+https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.imgur.com/2yZJaBq.jpg" group-title="NHẬT BẢN", TOKYO MX 2
-https://movie.mcas.jp/mcas/smil:mx2_prod.smil/chunklist_b364000.m3u8
+https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png", Fuji TV
 http://203.162.235.41:16904
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://www.wowow.co.jp/ml/cinefil/sp_img/title.png", WOWOW Cinefil
