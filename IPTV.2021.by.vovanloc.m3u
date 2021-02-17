@@ -529,6 +529,8 @@ https://sotalcloud.live-s.cdn.bitgravity.com/cdn-live/_definst_/sotalcloud/live/
 https://movie.mcas.jp/mcas/smil:mx2_prod.smil/chunklist_b364000.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png", Fuji TV
 http://203.162.235.41:16904
+#EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://www.wowow.co.jp/ml/cinefil/sp_img/title.png", WOWOW Cinefil
+http://203.162.235.41:16916
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Weathernews_logo.svg/1200px-Weathernews_logo.svg.png", Weathernews HD
 http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
 
