@@ -515,20 +515,20 @@ http://203.162.235.41:16901
 https://cdn.jpth10.jpnettv.live/jptv/kansi_tv_540/playlist.m3u8?
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://www.news24.jp/external/images/bnr_howto_150x60.jpg", NTV News24
 https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
-#EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.imgur.com/PEnSdCL.png", Nippon TV HD
-https://sotalcloud.live-s.cdn.bitgravity.com/cdn-live/_definst_/sotalcloud/live/DYA_004/playlist.m3u8
-#EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.imgur.com/8KjuKrH.png", TBS HD
+#EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.imgur.com/PEnSdCL.png", Nippon TV
+http://203.162.235.41:16905
+#EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.imgur.com/8KjuKrH.png", TBS
 http://203.162.235.41:16907
-#EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1280px-TV_Tokyo_logo_20110629.svg.png" group-title="NHẬT BẢN", TV TOKYO HD
+#EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1280px-TV_Tokyo_logo_20110629.svg.png" group-title="NHẬT BẢN", TV TOKYO
 http://203.162.235.41:16908
-#EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png", TV Asahi HD
+#EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png", TV Asahi
 http://203.162.235.41:16906
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.imgur.com/qvpNF9v.jpg", TOKYO MX 1 HD
 https://sotalcloud.live-s.cdn.bitgravity.com/cdn-live/_definst_/sotalcloud/live/DYA_009/playlist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.imgur.com/2yZJaBq.jpg" group-title="NHẬT BẢN", TOKYO MX 2
 https://movie.mcas.jp/mcas/smil:mx2_prod.smil/chunklist_b364000.m3u8
-#EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png", Fuji TV HD
-https://sotalcloud.live-s.cdn.bitgravity.com/cdn-live/_definst_/sotalcloud/live/DYA_008/playlist.m3u8
+#EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png", Fuji TV
+http://203.162.235.41:16904
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Weathernews_logo.svg/1200px-Weathernews_logo.svg.png", Weathernews HD
 http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
 
