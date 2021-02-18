@@ -15,7 +15,7 @@ http://113.160.162.131:8080/tv/bk.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/8qdxsmD.png", Bắc Ninh HD
 https://livecdn.fptplay.net/sdc/bacninh_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="http://thbt.vn/wp-content/themes/comfy-plus/styles/default/img/tv.png", Bến Tre
-http://livecdn.fptplay.net/sdc/bentre_2000.stream/playlist.m3u8
+http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://img.hplus.com.vn/460x260/poster/2018/06/18/522019-BTV1.png", Bình Dương 1 HD
 https://livecdn.fptplay.net/hda/btv1_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://img.hplus.com.vn/460x260/poster/2018/06/18/245539-444791-BTV2.png", Bình Dương 2 HD
