@@ -557,7 +557,7 @@ https://cdn.jpth10.jpnettv.live/jptv/kansi_tv_osaka_540/playlist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/TMvwtKq/GAORASPORTSlogobyvovanloc.png", GAORA SPORTS
 https://cdn.us195.jpnettv.live/jptv/GaoRa/playlist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/FhNq9c2/MBSlogobyvovanloc.png", MBS
-https://cdn.us195.jpnettv.live/jptv/kansi_mbs_540/playlist.m3u8
+https://cdn.us195.jpnettv.live/jptv/kansi_mbs_540/playlist.m3u8?
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/VDp6DKg/moviepluslogobyvovanloc.png", Movie Plus
 https://cdn.us195.jpnettv.live/jptv/movieplus/playlist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/6r4PGxs/nihoneigalogobyvovanloc.png", Nihon Eiga 
@@ -609,7 +609,7 @@ http://203.162.235.41:16916
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/sJ1ds03/weathernewslogobyvovanloc.png", Weathernews HD
 http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/hRDGPKj/Yomiuri-TV.png", Yomiuri TV
-https://cdn.us195.jpnettv.live/jptv/kansi_yomiuri_540/playlist.m3u8
+https://cdn.us195.jpnettv.live/jptv/kansi_yomiuri_540/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7osksNP.png" group-title="TRUNG QUỐC", CCTV1 HD
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
