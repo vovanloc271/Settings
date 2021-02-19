@@ -293,38 +293,36 @@ https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab19_SD_new1.smil/chunklist_w408
 #EXTINF:-1 tvg-id="vtvcab20_v_family" group-title="VTVCab" tvg-logo="https://i.ibb.co/f2xchQ6/VFamilylogobyvovanloc.png", VTVCab20 - VFamily
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab20_SD_new1.smil/chunklist_w290702272_b2692000.m3u8?uid=w224d444x2c474z584x506&t_end=o4i5u5h514442354v27484v2w233z2&p_form=s335l4x4f3&s_count=s335l4x4f3e5y2&mytokenstarttime=1612663459&mytokenendtime=1612706959&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
 
-#EXTINF:-1 tvg-id="antv" group-title="KHÁC" tvg-logo="https://i.imgur.com/kzKZm1L.png", An Ninh TV HD
+#EXTINF:-1 tvg-id="antv" group-title="KHÁC" tvg-logo="https://i.ibb.co/0Mq88JP/anninhtvbyvovanloc.png", An Ninh TV HD
 https://livecdn.fptplay.net/sdc/anninhtv_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="quoc_hoi_tv" group-title="KHÁC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/17/KenhQuocHoi_logo.png", Quốc Hội | 1080p
+#EXTINF:-1 tvg-id="quoc_hoi_tv" group-title="KHÁC" tvg-logo="https://i.ibb.co/FzWcfPw/quochoilogobyvovanloc.png", Quốc Hội | 1080p
 http://36.37.252.114:888/Apple/OneTV-106/playlist.m3u8
-#EXTINF:-1 tvg-id="quoc_hoi_tv" group-title="KHÁC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/17/KenhQuocHoi_logo.png", Quốc Hội | 720p
+#EXTINF:-1 tvg-id="quoc_hoi_tv" group-title="KHÁC" tvg-logo="https://i.ibb.co/FzWcfPw/quochoilogobyvovanloc.png", Quốc Hội | 720p
 https://livecdn.fptplay.net/sdc/quochoivn_hls.smil/chunklist_b2800000.m3u8
-#EXTINF:-1 tvg-id="quoc_phong_tv" group-title="KHÁC" tvg-logo="http://qpvn.vn/uploads/site/703a04fed6e5d0fb9aaf41941140ff3805c0ae9a.png", Quốc Phòng Việt Nam HD
+#EXTINF:-1 tvg-id="quoc_phong_tv" group-title="KHÁC" tvg-logo="https://i.ibb.co/4jtnTg6/QPVNlogobyvovanloc.png", Quốc Phòng Việt Nam HD
 https://livecdn.fptplay.net/sdc/quocphongvnhd_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="nhan_dan_tv" group-title="KHÁC" tvg-logo="https://img.hplus.com.vn/1180x665/banner/2018/06/05/255092-Nhandan.png", Nhân Dân TV | 1080P
+#EXTINF:-1 tvg-id="nhan_dan_tv" group-title="KHÁC" tvg-logo="https://i.ibb.co/3Tp2VMZ/nhandantvlogobyvovanloc.webp", Nhân Dân TV | 1080P
 http://36.37.252.114:888/Apple/OneTV-109/playlist.m3u8
-#EXTINF:-1 tvg-id="nhan_dan_tv" group-title="KHÁC" tvg-logo="https://img.hplus.com.vn/1180x665/banner/2018/06/05/255092-Nhandan.png", Nhân Dân TV | 720P
+#EXTINF:-1 tvg-id="nhan_dan_tv" group-title="KHÁC" tvg-logo="https://i.ibb.co/3Tp2VMZ/nhandantvlogobyvovanloc.webp", Nhân Dân TV | 720P
 https://htv-drm-live-cdn.fptplay.net:443/CDN-FPT02/NHANDAN-SD-ABR/HTV-ABR/NHANDAN-SD-720p/chunks.m3u8
-#EXTINF:-1 tvg-id="ttxvn" group-title="KHÁC" tvg-logo="https://i.imgur.com/ziUs8oD.png", VNews | 1080P
+#EXTINF:-1 tvg-id="ttxvn" group-title="KHÁC" tvg-logo="https://i.ibb.co/PxHy4mN/VNEWSlogobyvovanloc.png", VNews | 1080P
 http://36.37.252.114:888/Apple/OneTV-110/playlist.m3u8
-#EXTINF:-1 tvg-id="ttxvn" group-title="KHÁC" tvg-logo="https://i.imgur.com/ziUs8oD.png", VNews | 720P
+#EXTINF:-1 tvg-id="ttxvn" group-title="KHÁC" tvg-logo="https://i.ibb.co/PxHy4mN/VNEWSlogobyvovanloc.png", VNews | 720P
 http://livecdn.fptplay.net/sda/ttxvn_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vovtv" group-title="KHÁC" tvg-logo="https://i.imgur.com/SReog1U.png", VOV TV HD
+#EXTINF:-1 tvg-id="vovtv" group-title="KHÁC" tvg-logo="https://i.ibb.co/Bgm9z5p/vovtvlogobyvovanloc.png", VOV TV HD
 http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="btv4_imovie" group-title="KHÁC" tvg-logo="https://i.imgur.com/IbCiRth.png",BTV4 - iMovie HD
+#EXTINF:-1 group-title="KHÁC" tvg-logo="https://i.ibb.co/gTJR0Fy/BTV4logobyvovanloc.png", BTV4 - iMovie HD
 https://livecdn.fptplay.net/hda/btv4hd_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="btv6_viet_teen" group-title="KHÁC" tvg-logo="https://htvc.vn/uploads/cache/thumbnail/2019-04-08/5412686-binh-thuan-6.png",BTV6
+#EXTINF:-1 group-title="KHÁC" tvg-logo="https://i.ibb.co/GnZgkJH/BTV6logobyvovanloc.png", BTV6
 https://livecdn.fptplay.net/sda/vietteen_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="btv9_an_vien" group-title="KHÁC" tvg-logo="https://rsstv.gviet.vn/sctv/159/130/1581298778597.png", BTV9 - An Viên TV HD
+#EXTINF:-1 group-title="KHÁC" tvg-logo="https://i.ibb.co/Jytpppv/BTV9logobyvovanloc.webp", BTV9 - An Viên TV HD
 https://livecdn.fptplay.net/sdc/btv9_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="anvien" group-title="KHÁC" tvg-logo="https://anvienhd.net/uploads/images/hinhanh/3127455c766024676a4.70187032.png",BTV10 - NCM
+#EXTINF:-1 tvg-id="anvien" group-title="KHÁC" tvg-logo="https://i.ibb.co/FWckt4h/BTV10logobyvovanloc.png", BTV10 - NCM
 https://livecdn.fptplay.net/sda/ncm_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="hanoicab2_youtv" group-title="KHÁC" tvg-logo="https://i.ibb.co/N7LhDxM/youtvlogobyvovanloc.png", YouTV - HanoiCab2
 http://quangvinh997.duckdns.org:8889/udp/225.1.1.207:30120
-#EXTINF:-1 group-title="KHÁC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1280px-MTV_Logo.svg.png", MTV
+#EXTINF:-1 group-title="KHÁC" tvg-logo="https://i.ibb.co/rFR3kDY/mtvvnlogobyvovanloc.png", MTV Vietnam
 http://quangvinh997.duckdns.org:8889/udp/225.1.1.245:30120
-#EXTINF:-1 group-title="KHÁC" tvg-logo="https://i.imgur.com/Zg0rDaS.jpg", Phim lẻ: Nhất My Đạo Nhân - Vampire Vs Vampire
-https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/OTT/TV_Series/VampireVsVampire_1989_HongKong/VampireVsVampire_1989_HongKong.mp4/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="axn" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/fQySbyW/axnlogobyvovanloc.png", AXN | 1080P
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
