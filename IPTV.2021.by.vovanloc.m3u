@@ -246,6 +246,8 @@ https://vtc130121.cdn.vnns.io/VTC16_abr/vtc130121/VTC16_abr_1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab1_giai_tri_tv" group-title="VTVCab" tvg-logo="https://i.ibb.co/G5xTrR9/vtvcab1logobyvovanloc.png", VTVCab1 - Vie Giải Trí  
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab1_SD_new1.smil/chunklist_w1233410551_b2692000.m3u8?uid=w224d444x2c474z584x506&t_end=o4i5u5h514442354v27484v2w233z2&p_form=s335l4x4f3&s_count=s335l4x4f3e5y2&mytokenstarttime=1612663459&mytokenendtime=1612706959&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
+#EXTINF:-1 tvg-id="vtvcab3_the_thao_tv_sd" group-title="VTVCab" tvg-logo="https://i.ibb.co/mBGc6NZ/vtvcab3logobyvovanloc.png", VTVCab3 - Thể Thao TV
+http://s4.nihontv.net:21585/vtvcab3/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab4" group-title="VTVCab" tvg-logo="https://i.ibb.co/smnmRvF/VTVCab4logobyvovanloc.png", VTVCab4 - Văn Hóa
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab4_HD_new1.smil/chunklist_w106658459_b2692000.m3u8?uid=w224d444x2c474z584x506&t_end=o4i5u5h514442354v27484v2w233z2&p_form=s335l4x4f3&s_count=s335l4x4f3e5y2&mytokenstarttime=1612663459&mytokenendtime=1612706959&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
 #EXTINF:-1 tvg-id="vtvcab5_e_channel" group-title="VTVCab" tvg-logo="https://i.ibb.co/GVYvHh8/EChannellogobyvovanloc.png", VTVCab5 - E Channel
