@@ -427,7 +427,7 @@ http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
 http://quangvinh997.duckdns.org:8889/udp/225.1.1.93:30120
 #EXTINF:-1 tvg-id="hbo" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/LxjKRfz/hbologobyvovanloc.png", HBO HD (VIETSUB)
 http://quangvinh997.duckdns.org:8889/udp/225.1.4.90:30120
-#EXTINF:-1 tvg-id="hbo" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/LxjKRfz/hbologobyvovanloc.png", HBO SD (Quốc Tế)
+#EXTINF:-1 tvg-id="hbo" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/LxjKRfz/hbologobyvovanloc.png", HBO HD (Quốc Tế)
 http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/6sFyDLT/HBOHitslogobyvovanloc.png", HBO HITS
 http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
