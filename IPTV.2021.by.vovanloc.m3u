@@ -768,54 +768,50 @@ http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/chunklist_w1873729930.m3u
 #EXTINF:-1 group-title="HÀN QUỐC" tvg-logo="https://i.imgur.com/lCue2Du.png", KBCTV
 http://119.200.131.11:1935/KBCTV/tv/chunklist_w5739111.m3u8
 
-#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/ZliC0dP.png", AMARIN 34 HD
+#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/LJJcHDK/amarin34hdlogobyvovanloc.png", AMARIN 34 HD
 http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/chunklist_w388054239_b4692000_slThai.m3u8
-#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/Zqu4sH8.png", CH3 HD
+#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/fSyHXC3/ch3hdlogobyvovanloc.png", CH3 HD
 https://ch3-33-web.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/Zqu4sH8.png", CH3 HD (Server 2)
+#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/fSyHXC3/ch3hdlogobyvovanloc.png", CH3 HD (Server 2)
 http://36.37.252.114:888/Apple/OneTV-036/playlist.m3u8
-#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/U5is9Sw.png", CH5 HD (Chọn HW)👉
+#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/44spbr3/ch5hdlogobyvovanloc.png", CH5 HD (Chọn HW)👉
 https://www.livedoomovies.com/02_5HD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/Yjw7t7H.png", CH7 | 1080P
+#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/RQRD5VS/ch7hdlogobyvovanloc.png", CH7 | 1080P
 http://36.37.252.114:888/Apple/OneTV-037/playlist.m3u8
-#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/Yjw7t7H.png", CH7 | 720P (Chọn HW)👉
+#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/RQRD5VS/ch7hdlogobyvovanloc.png", CH7 | 720P (Chọn HW)👉
 https://www.livedoomovies.com/02_7HD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/bjh4yxc/ch8logobyvovanloc.png", CH8 SD (Chọn HW)👉
+#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/6WnMP25/ch8hdlogobyvovanloc.png", CH8 SD (Chọn HW)👉
 https://www.livedoomovie.com/02_8HD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBT_2009.png", NBT BANGKOK HD (Chọn HW)👉
+#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/Hh4WtF4/NBTbangkoklogobyvovanloc.png", NBT BANGKOK HD (Chọn HW)👉
 https://www.livedoomovie.com/02_NBTSD_480p/chunklist.m3u8
-#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/FWysl8P.jpg", News 1
+#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/cYX7YvW/news1logobyvovanloc.png", News 1
 http://news1.live14.com/stream/news1_hi.m3u8
 #EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/nw4jsTM/true4ulogobyvovanloc.png", True4u 24 (Chọn HW)👉
 https://www.livedoomovie.com/02_TRUE4U_480p/chunklist.m3u8
-#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png", MONO 29 HD
+#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/rvVdpT3/mono29logobyvovanloc.png", MONO 29 HD
+http://36.37.252.114:888/Apple/OneTV-038/playlist.m3u8
+#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/rvVdpT3/mono29logobyvovanloc.png", MONO 29 HD (Server 2)
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8 
-#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/GsW8pm1.png", MCOT 30 HD (Chọn HW)👉
+#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/HNgct3c/mcothd30logobyvovanloc.png", MCOT 30 HD (Chọn HW)👉
 https://www.livedoomovie.com/02_MCOTHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/SKcR3K3.png", ONE 31 HD
+#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/WxMckrF/onehd31logobyvovanloc.png", ONE 31 HD
 http://live2.dootvde.com/live/50022_one_hd.stream.smil/chunklist_w1357722020_b4692000_slThai.m3u8
-#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/SKcR3K3.png", ONE 31 HD (Chọn HW)👉
+#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/WxMckrF/onehd31logobyvovanloc.png", ONE 31 HD (Chọn HW)👉
 https://www.livedoomovie.com/02_GMMONE_720p/chunklist.m3u8
-#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/grwYHJW.png", Thai PBS 3 HD
+#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/4dZNTWG/thaipbs3hdlogobyvovanloc.png", Thai PBS 3 HD
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/D2I72kF.png", Thairath TV 32 HD (Chọn HW)👉
+#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/DVq8JQm/Thairath-TV32-HDlogobyvovanloc.png", Thairath TV 32 HD (Chọn HW)👉
 https://www.livedoomovie.com/02_THAIRATH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/VWGzYN6.jpg", TNN16
-http://119.59.125.74/stream/totnew.php?channel_id=77774220bb8e40aa94e549e29ff3ed8a&.m3u8
 #EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/M8zp6Y1/PPTV36logobyvovanloc.png", PPTV36 HD (Chọn HW)👉
 https://www.livedoomovies.com/02_PPTVHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/t8lZXg0.png", GMM 25 HD
+#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/LQz81bj/GMM25logobyvovanloc.png", GMM 25 HD
 http://live2.dootvde.com/live/50018_gmm.stream.smil/chunklist_w259668913_b4692000_slThai.m3u8
 #EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/xm4bVsq/workpointlogobyvovanloc.png", WORKPOINT TV
 http://160.119.77.116:8081/iptv/hd-workpoint.stream/playlist.m3u8
-#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/wVednTk.png", Suwannabhumi TV
-http://203.146.129.233:1935/live/mp4:suwan/chunklist.m3u8
-#EXTINF:-1 group-title="THÁI LAN" tvg-logo="http://live.parliament.go.th/images/coronationceremony/logo.png", TPTV
-http://49.231.66.85:1935/live/tptv/playlist.m3u8
-#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/lK52fpm.png",White Channel
-http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
-#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.imgur.com/gBDn3PE.png", Yateem TV
-https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
+#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/tX1vsxC/TPTVlogobyvovanloc.png", TPTV
+http://49.231.66.85:1935/live/tptv/chunklist_w1709422679.m3u8
+#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/cFXHW5X/yateemtvlogobyvovanloc.png", Yateem TV
+https://vdo.plathong.net/wowza/muslimonair1/live/chunklist_w1252525349.m3u8
 
 #EXTINF:-1 group-title="CAMPUCHIA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/apsara_tv.png", APSARA TV
 http://36.37.252.114:888/Apple/OneTV-018/playlist.m3u8
