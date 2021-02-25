@@ -598,7 +598,7 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/dk0ZHht/abctvlogobyvovanloc.jpg", ANIMAX (Nhật Bản)
+#EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/2y38WHL/animaxlogobyvovanloc.png", ANIMAX (Nhật Bản)
 https://cdn.jpth10.jpnettv.live/jptv/janimax_540/playlist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/dk0ZHht/abctvlogobyvovanloc.jpg", ABC TV
 https://cdn.jpth10.jpnettv.live/jptv/kansi_abc_asahi_540/playlist.m3u8?
