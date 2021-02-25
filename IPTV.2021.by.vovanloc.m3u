@@ -377,6 +377,22 @@ https://livecdn.fptplay.net/sda/ncm_2000.stream/chunklist.m3u8
 http://quangvinh997.duckdns.org:8889/udp/225.1.1.207:30120
 #EXTINF:-1 group-title="KHÁC" tvg-logo="https://i.ibb.co/rFR3kDY/mtvvnlogobyvovanloc.png", MTV Vietnam
 http://quangvinh997.duckdns.org:8889/udp/225.1.1.245:30120
+#EXTINF:-1 group-title="KHÁC" tvg-logo="https://i.ibb.co/fnQcVYh/Ninja-Warrior.jpg", SASUKE 9 (Ninja Warrior 9) - Phần 1
+https://dl.dropboxusercontent.com/s/1js6kgesbctxriz/Ninja%20Warrior%209%20%28SASUKE%209%29%20-%20Part%201.mp4?dl=0
+#EXTINF:-1 group-title="KHÁC" tvg-logo="https://i.ibb.co/fnQcVYh/Ninja-Warrior.jpg", SASUKE 9 (Ninja Warrior 9) - Phần 2
+https://dl.dropboxusercontent.com/s/6dz09378dez8hvg/Ninja%20Warrior%209%20%28SASUKE%209%29%20-%20Part%202.mp4?dl=0
+#EXTINF:-1 group-title="KHÁC" tvg-logo="https://i.ibb.co/fnQcVYh/Ninja-Warrior.jpg", SASUKE 9 (Ninja Warrior 9) - Phần 3
+https://dl.dropboxusercontent.com/s/3of5k6j07vp4uff/Ninja%20Warrior%209%20%28SASUKE%209%29%20-%20Part%203.mp4?dl=0
+#EXTINF:-1 group-title="KHÁC" tvg-logo="https://i.ibb.co/fnQcVYh/Ninja-Warrior.jpg", SASUKE 23 (Ninja Warrior 23) - Phần 1
+https://dl.dropboxusercontent.com/s/4ms4ftdl5iy9umc/Ninja%20Warrior%2023%20%28SASUKE%2023%29%20-%20Part%201.mp4?dl=0
+#EXTINF:-1 group-title="KHÁC" tvg-logo="https://i.ibb.co/fnQcVYh/Ninja-Warrior.jpg", SASUKE 23 (Ninja Warrior 23) - Phần 2
+https://dl.dropboxusercontent.com/s/6dz09378dez8hvg/Ninja%20Warrior%209%20%28SASUKE%209%29%20-%20Part%202.mp4?dl=0
+#EXTINF:-1 group-title="KHÁC" tvg-logo="https://i.ibb.co/fnQcVYh/Ninja-Warrior.jpg", SASUKE 23 (Ninja Warrior 23) - Phần 3
+https://dl.dropboxusercontent.com/s/mmluzflo7f5cabb/Ninja%20Warrior%2023%20%28SASUKE%2023%29%20-%20Part%203.mp4?dl=0
+#EXTINF:-1 group-title="KHÁC" tvg-logo="https://i.ibb.co/fnQcVYh/Ninja-Warrior.jpg", SASUKE 23 (Ninja Warrior 23) - Phần 4
+https://dl.dropboxusercontent.com/s/bnuugjbju06hiaj/Ninja%20Warrior%2023%20%28SASUKE%2023%29%20-%20Part%204.mp4?dl=0
+#EXTINF:-1 group-title="KHÁC" tvg-logo="https://i.ibb.co/fnQcVYh/Ninja-Warrior.jpg", SASUKE 23 (Ninja Warrior 23) - Phần 5
+https://dl.dropboxusercontent.com/s/ktpvs7w2n8bharl/Ninja%20Warrior%2023%20%28SASUKE%2023%29%20-%20Part%205.mp4?dl=0
 
 #EXTINF:-1 tvg-id="axn" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/fQySbyW/axnlogobyvovanloc.png", AXN | 1080P
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
