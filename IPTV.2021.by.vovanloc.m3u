@@ -598,28 +598,34 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
+#EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/dk0ZHht/abctvlogobyvovanloc.jpg", ANIMAX (Nhật Bản)
+https://cdn.jpth10.jpnettv.live/jptv/janimax_540/playlist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/dk0ZHht/abctvlogobyvovanloc.jpg", ABC TV
-https://cdn.us195.jpnettv.live/jptv/kansi_abc_asahi_540/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/kansi_abc_asahi_540/playlist.m3u8?
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/9T1V7M7/eiseigekijologobyvovanloc.jpg", Eisei Gekijo
-https://cdn.us195.jpnettv.live/jptv/gekijjyou/playlist.m3u8
+https://cdn.jpth10.jpnettv.live/jptv/gekijjyou/playlist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/q1fSSkv/suntvlogobyvovanloc.jpg", SUN TV
-https://cdn.us195.jpnettv.live/jptv/kansi_sun_tv_540/playlist.m3u8
+https://cdn.jpth10.jpnettv.live/jptv/kansi_sun_tv_540/playlist.m3u8
+#EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/KVYm5Jg/familytheaterlogobyvovanloc.png", Family Theater
+https://cdn.jpth10.jpnettv.live/jptv/familytheater/playlist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/r0td5PT/osakatvlogobyvovanloc.png", OSAKA TV
 https://cdn.jpth10.jpnettv.live/jptv/kansi_tv_osaka_540/playlist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/TMvwtKq/GAORASPORTSlogobyvovanloc.png", GAORA SPORTS
-https://cdn.us195.jpnettv.live/jptv/GaoRa/playlist.m3u8
+https://cdn.jpth10.jpnettv.live/jptv/GaoRa/playlist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/FhNq9c2/MBSlogobyvovanloc.png", MBS
-https://cdn.us195.jpnettv.live/jptv/kansi_mbs_540/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/kansi_mbs_540/playlist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/VDp6DKg/moviepluslogobyvovanloc.png", Movie Plus
-https://cdn.us195.jpnettv.live/jptv/movieplus/playlist.m3u8
+https://cdn.jpth10.jpnettv.live/jptv/movieplus/playlist.m3u8
+#EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/rFR3kDY/mtvvnlogobyvovanloc.png", MTV (Nhật Bản)
+https://cdn.jpth10.jpnettv.live/jptv/mtv/playlist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/6r4PGxs/nihoneigalogobyvovanloc.png", Nihon Eiga 
 https://cdn.jpth10.jpnettv.live/jptv/igasennmonn_540/playlist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/C6Ldd2v/nhkbsplogobyvovanloc.png", NHK BSP
 https://cdn.jpth10.jpnettv.live/jptv/bspremium_540/playlist.m3u8?
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/PcJT7q0/nhkglogobyvovanloc.png", NHK G
-https://cdn.us195.jpnettv.live/jptv/kanto_nhk_g_540/playlist.m3u8
+https://cdn.jpth10.jpnettv.live/jptv/kanto_nhk_g_540/playlist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/SrWQbqx/NHKElogobyvovanloc.png", NHK E
-https://cdn.us195.jpnettv.live/jptv/kanto_nhk_edu_540/playlist.m3u8
+https://cdn.jpth10.jpnettv.live/jptv/kanto_nhk_edu_540/playlist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/68cVkqc/NHK.png", NHK Normal
 http://203.162.235.41:16901
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/yqMkkvL/Kansailogobyvovanloc.png", Kansai TV
@@ -627,19 +633,19 @@ https://cdn.jpth10.jpnettv.live/jptv/kansi_tv_540/playlist.m3u8?
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://www.news24.jp/external/images/bnr_howto_150x60.jpg", NTV News24
 https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/nfC2MXP/Nippontvlogobyvovanloc.png", Nippon TV
-https://cdn.us195.jpnettv.live/jptv/kanto_nippon_540/playlist.m3u8
+https://cdn.jpth10.jpnettv.live/jptv/kanto_nippon_540/playlist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/nfC2MXP/Nippontvlogobyvovanloc.png", Nippon TV (Server 2)
 http://203.162.235.41:16905
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/Jt7CKwS/tbslogobyvovanloc.png", TBS
-https://cdn.us195.jpnettv.live/jptv/kanto_tbs_540/playlist.m3u8
+https://cdn.jpth10.jpnettv.live/jptv/kanto_tbs_540/playlist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/Jt7CKwS/tbslogobyvovanloc.png", TBS (Server 2)
 http://203.162.235.41:16907
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/ydrC9Y1/tvtokyologobyvovanloc.png" group-title="NHẬT BẢN", TV TOKYO
-https://cdn.us195.jpnettv.live/jptv/kanto_tv_tokyo_540/playlist.m3u8
+https://cdn.jpth10.jpnettv.live/jptv/kanto_tv_tokyo_540/playlist.m3u8?
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/ydrC9Y1/tvtokyologobyvovanloc.png" group-title="NHẬT BẢN", TV TOKYO (Server 2)
 http://203.162.235.41:16908
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/Xs790xZ/tvasahilogobyvovanloc.png", TV Asahi 
-https://cdn.us195.jpnettv.live/jptv/kanto_tv_asahi_540/playlist.m3u8
+https://cdn.jpth10.jpnettv.live/jptv/kanto_tv_asahi_540/playlist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/Xs790xZ/tvasahilogobyvovanloc.png", TV Asahi (Server 2)
 http://203.162.235.41:16906
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/x2QMBm5/tokyomx1logobyvoavanloc.jpg", TOKYO MX 1
@@ -647,13 +653,13 @@ https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/gJ5Ts3T/tokyomx2logobyvovanloc.jpg" group-title="NHẬT BẢN", TOKYO MX 2
 https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/hK8gZyJ/fujitvlogobyvovanloc.png", Fuji TV
-https://cdn.us195.jpnettv.live/jptv/kanto_fuji_540/playlist.m3u8
+https://cdn.jpth10.jpnettv.live/jptv/kanto_fuji_540/playlist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/hK8gZyJ/fujitvlogobyvovanloc.png", Fuji TV (Server 2)
 http://203.162.235.41:16904
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/1TdxwrW/Sky-Alogobyvovanloc.jpg", Sky A
-https://cdn.us195.jpnettv.live/jptv/Sky_A/playlist.m3u8
+https://cdn.jpth10.jpnettv.live/jptv/Sky_A/playlist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/jMpWNzM/wowowlivelogobyvovanloc.png", WOWOW Live
-https://cdn.us195.jpnettv.live/jptv/wowlive_540/playlist.m3u8
+https://cdn.jpth10.jpnettv.live/jptv/wowlive_540/playlist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/mBRsJLZ/WOWOWCinefillogobyvovanloc.webp", WOWOW Cinefil 
 https://cdn.jpth10.jpnettv.live/jptv/cinefil_wowow_540/playlist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/mBRsJLZ/WOWOWCinefillogobyvovanloc.webp", WOWOW Cinefil (Server 2)
@@ -661,7 +667,7 @@ http://203.162.235.41:16916
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/sJ1ds03/weathernewslogobyvovanloc.png", Weathernews HD
 http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN" tvg-logo="https://i.ibb.co/hRDGPKj/Yomiuri-TV.png", Yomiuri TV
-https://cdn.us195.jpnettv.live/jptv/kansi_yomiuri_540/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/kansi_yomiuri_540/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7osksNP.png" group-title="TRUNG QUỐC", CCTV1 HD
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
