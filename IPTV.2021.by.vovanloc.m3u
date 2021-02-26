@@ -57,12 +57,8 @@ https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/sgbVGWC/hanamtvlogobyvovanloc.jpg", Hà Nam
 http://117.4.240.220:80/Medias/HaNam/720P/playlist.m3u8
 #EXTINF:-1 tvg-id="hanoitv1" group-title="KÊNH ĐỊA PHƯƠNG"  tvg-logo="https://i.ibb.co/KXJY60J/Hanoi1logobyvovanloc.png", Hà Nội 1 HD
-http://quangvinh997.duckdns.org:8889/udp/225.1.2.186:30120
-#EXTINF:-1 tvg-id="hanoitv2" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/dgqk70P/Hanoi2logobyvovanloc.png", Hà Nội 2 HD
-http://quangvinh997.duckdns.org:8889/udp/225.1.1.125:30120
-#EXTINF:-1 tvg-id="hanoitv1" group-title="KÊNH ĐỊA PHƯƠNG"  tvg-logo="https://i.ibb.co/KXJY60J/Hanoi1logobyvovanloc.png", Hà Nội 1 HD (Server 2)
 http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="hanoitv2" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/dgqk70P/Hanoi2logobyvovanloc.png", Hà Nội 2 HD (Server 2)
+#EXTINF:-1 tvg-id="hanoitv2" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/dgqk70P/Hanoi2logobyvovanloc.png", Hà Nội 2 HD
 http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/596yzNT/hatinhtvlogobyvovanloc.webp", Hà Tĩnh HD
 http://hatinhtv.vn:82/hls/httv.m3u8
@@ -146,10 +142,6 @@ https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8
 http://quangvinh997.duckdns.org:8889/udp/225.1.1.155:30120
 #EXTINF:-1 tvg-id="thvl2" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/8XjWcJT/THVL2logobyvovanloc.png", Vĩnh Long 2 | 1080P
 http://quangvinh997.duckdns.org:8889/udp/225.1.1.154:30120
-#EXTINF:-1 tvg-id="thvl3" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/sbJKS9Q/THVL3logobyvovanloc.png", Vĩnh Long 3 | 1080P
-http://quangvinh997.duckdns.org:8889/udp/225.1.1.235:30120
-#EXTINF:-1 tvg-id="thvl4" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Lv2BffY/THVL4logobyvovanloc.png", Vĩnh Long 4 | 1080P
-http://quangvinh997.duckdns.org:8889/udp/225.1.2.25:30120
 #EXTINF:-1 tvg-id="thvl1" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/X5f0WmH/THVL1logobyvovanloc.png", Vĩnh Long 1 | 720P
 https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="thvl2" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/8XjWcJT/THVL2logobyvovanloc.png", Vĩnh Long 2 | 720P
