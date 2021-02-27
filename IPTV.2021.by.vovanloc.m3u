@@ -239,13 +239,13 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8?
 http://livecdn.fptplay.net/sdc/fbnchd_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="vtv1" group-title="VTV" tvg-logo="https://i.ibb.co/HVm4hSt/vtv1logobyvovanloc.png", VTV1 | 1080P
-https://live-vthn.vieon.vn:443/vtc/live/hd_vtv1_test/TV_HD/hd_vtv1_test_1080p/chunks.m3u8
+https://live-vthn.vieon.vn/vtc/live/hd_vtv1_test/TV_HD/hd_vtv1_test_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="vtv2" group-title="VTV" tvg-logo="https://i.ibb.co/P1nWrmk/vtv2logobyvovanloc.png", VTV2 | 1080P
-https://live-vthn.vieon.vn:443/vtc/live/hd_vtv2_test/TV_HD/hd_vtv2_test_1080p/chunks.m3u8
+https://live-vthn.vieon.vn/vtc/live/hd_vtv2_test/TV_HD/hd_vtv2_test_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="vtv3" group-title="VTV" tvg-logo="https://i.ibb.co/QC9DNRP/vtv3logobyvovanloc.png", VTV3 | 1080P
 https://live-vthn.vieon.vn/vtc/live/hd_vtv3_test/TV_HD/hd_vtv3_test_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="vtv4" group-title="VTV" tvg-logo="https://i.ibb.co/JcLc2sP/vtv4logobyvovanloc.png", VTV4 | 1080P
-https://live-vthn.vieon.vn:443/vtc/live/hd_vtv4_test/TV_HD/hd_vtv4_test_1080p/chunks.m3u8
+https://live-vthn.vieon.vn/vtc/live/hd_vtv4_test/TV_HD/hd_vtv4_test_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="vtv5" group-title="VTV" tvg-logo="https://i.ibb.co/hD7yYgp/vtv5logobyvovanloc.png", VTV5 | 1080P
 https://live-vthn.vieon.vn/live/hd_vtv5_test/TV_HD/hd_vtv5_test_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="vtv6" group-title="VTV" tvg-logo="https://i.ibb.co/j38ZWhp/vtv6logobyvovanloc.png", VTV6 | 1080P
@@ -349,9 +349,9 @@ https://livecdn.fptplay.net/sdc/anninhtv_2000.stream/chunklist.m3u8
 http://36.37.252.114:888/Apple/OneTV-106/playlist.m3u8
 #EXTINF:-1 tvg-id="quoc_hoi_tv" group-title="KHÁC" tvg-logo="https://i.ibb.co/FzWcfPw/quochoilogobyvovanloc.png", Quốc Hội | 720p
 https://livecdn.fptplay.net/sdc/quochoivn_hls.smil/chunklist_b2800000.m3u8
-#EXTINF:-1 tvg-id="quoc_phong_tv" group-title="KHÁC" tvg-logo="https://i.ibb.co/4jtnTg6/QPVNlogobyvovanloc.png", Quốc Phòng Việt Nam | 1080P
+#EXTINF:-1 tvg-id="quoc_phong_tv" group-title="KHÁC" tvg-logo="https://i.ibb.co/4jtnTg6/QPVNlogobyvovanloc.png", QPVN | 1080P
 https://live-vthcm.vieon.vn/htv_drm/live/qpvn/TV_HD/qpvn_1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="quoc_phong_tv" group-title="KHÁC" tvg-logo="https://i.ibb.co/4jtnTg6/QPVNlogobyvovanloc.png", Quốc Phòng Việt Nam | 720P
+#EXTINF:-1 tvg-id="quoc_phong_tv" group-title="KHÁC" tvg-logo="https://i.ibb.co/4jtnTg6/QPVNlogobyvovanloc.png", QPVN | 720P
 https://livecdn.fptplay.net/sdc/quocphongvnhd_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="nhan_dan_tv" group-title="KHÁC" tvg-logo="https://i.ibb.co/3Tp2VMZ/nhandantvlogobyvovanloc.webp", Nhân Dân TV | 1080P
 http://36.37.252.114:888/Apple/OneTV-109/playlist.m3u8
