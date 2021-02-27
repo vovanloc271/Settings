@@ -310,7 +310,9 @@ https://vtc130121.cdn.vnns.io/VTC14_abr/vtc130121/VTC14_abr_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="vtc16" group-title="VTC" tvg-logo="https://i.ibb.co/ZcZV2Dx/vtc16logobyvovanloc.png", VTC16 HD
 https://vtc130121.cdn.vnns.io/VTC16_abr/vtc130121/VTC16_abr_1080p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab1_giai_tri_tv" group-title="VTVCab" tvg-logo="https://i.ibb.co/G5xTrR9/vtvcab1logobyvovanloc.png", VTVCab1 - Vie Giải Trí  
+#EXTINF:-1 tvg-id="vtvcab1_giai_tri_tv" group-title="VTVCab" tvg-logo="https://i.ibb.co/G5xTrR9/vtvcab1logobyvovanloc.png", VTVCab1 - Vie Giải Trí HD
+https://live-vthn.vieon.vn/vtvcab/live/hd_vtvcab_1_test/TV_HD/hd_vtvcab_1_test_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="vtvcab1_giai_tri_tv" group-title="VTVCab" tvg-logo="https://i.ibb.co/G5xTrR9/vtvcab1logobyvovanloc.png", VTVCab1 - Vie Giải Trí  SD
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab1_SD_new1.smil/chunklist_w1233410551_b2692000.m3u8?uid=w224d444x2c474z584x506&t_end=o4i5u5h514442354v27484v2w233z2&p_form=s335l4x4f3&s_count=s335l4x4f3e5y2&mytokenstarttime=1612663459&mytokenendtime=1612706959&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
 #EXTINF:-1 tvg-id="vtvcab2_phim_viet" group-title="VTVCab" tvg-logo="https://i.ibb.co/cYmmPHB/phimvietlogobyvovanloc.png", VTVCab2 - Phim Việt
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab2_SD_new1.smil/chunklist_w2130636636_b2692000.m3u8
