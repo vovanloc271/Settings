@@ -37,7 +37,7 @@ https://tv.canthotv.vn/live/tv/tv.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/VSsJKfp/danang1tvlogobyvovanloc.png", Đà Nẵng 1 HD
 https://livecdn.fptplay.net/sdc/danang1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/ryvXxWn/danang2tvlogobyvovanloc.png", Đà Nẵng 2 HD
-http://drtdnglive.e49a7c38.cdnviet.com/livestream/playlist.m3u8
+https://livecdn.fptplay.net:443/sdc/danang2_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/tP4tkpT/dongnai1tvlogobyvovanloc.png", Đồng Nai 1 HD
 https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/MSy09Y4/dongnai2tvlogobyvovanloc.png", Đồng Nai 2 HD
