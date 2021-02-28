@@ -213,9 +213,9 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="https://i.ibb.co/Pzq0q46/htvkeylogobyvovanloc.png", HTV Key
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="htv7" group-title="HTV" tvg-logo="https://i.ibb.co/QKtTwrJ/htv7logobyvovanloc.png", HTV7 HD
+#EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://i.ibb.co/QKtTwrJ/htv7logobyvovanloc.png", HTV7 HD
 https://livecdn.fptplay.net/hda/htv7hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="htv9" group-title="HTV" tvg-logo="https://i.ibb.co/NLh55qm/htv9logobyvovanloc.png", HTV9 HD
+#EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://i.ibb.co/NLh55qm/htv9logobyvovanloc.png", HTV9 HD
 https://livecdn.fptplay.net/hda/htv9hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv_the_thao" group-title="HTV"  tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png", HTV Thể Thao HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/chunks.m3u8
@@ -299,9 +299,9 @@ https://vtc130121.cdn.vnns.io:443/VTC8_abr/vtc130121/VTC8_abr_1080p/chunks.m3u8
 https://vtc130121.cdn.vnns.io/VTC9_abr/vtc130121/VTC9_abr_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="vtc10" group-title="VTC" tvg-logo="https://i.ibb.co/Y3cz3Mk/vtc10logobyvovanloc.png", VTC10 HD
 https://vtc130121.cdn.vnns.io/VTC10_abr/vtc130121/VTC10_abr_1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc11_kids_tv" group-title="VTC" tvg-logo="https://i.ibb.co/6nx456c/vtc11logobyvovanloc.png", VTC11 HD
+#EXTINF:-1 tvg-id="vtc11hd" group-title="VTC" tvg-logo="https://i.ibb.co/6nx456c/vtc11logobyvovanloc.png", VTC11 HD
 https://vtc130121.cdn.vnns.io/VTC11_abr/vtc130121/VTC11_abr_1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc12" group-title="VTC" tvg-logo="https://i.ibb.co/59Fmk2G/vtc12logobyvovanloc.png", VTC12 HD - VTCK
+#EXTINF:-1 tvg-id="vtc12hd" group-title="VTC" tvg-logo="https://i.ibb.co/59Fmk2G/vtc12logobyvovanloc.png", VTC12 HD - VTCK
 https://vtc130121.cdn.vnns.io/VTC12_abr/vtc130121/VTC12_abr_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="vtc13" group-title="VTC" tvg-logo="https://i.ibb.co/4KDDK1m/vtc8logobyvovanloc.png", VTC13 HD
 https://vtc130121.cdn.vnns.io/VTC13_abr/vtc130121/VTC13_abr_1080p/chunks.m3u8
@@ -345,7 +345,7 @@ https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab19_SD_new1.smil/chunklist_w408
 #EXTINF:-1 tvg-id="vtvcab20_v_family" group-title="VTVCab" tvg-logo="https://i.ibb.co/f2xchQ6/VFamilylogobyvovanloc.png", VTVCab20 - VFamily
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab20_SD_new1.smil/chunklist_w290702272_b2692000.m3u8?uid=w224d444x2c474z584x506&t_end=o4i5u5h514442354v27484v2w233z2&p_form=s335l4x4f3&s_count=s335l4x4f3e5y2&mytokenstarttime=1612663459&mytokenendtime=1612706959&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
 
-#EXTINF:-1 tvg-id="antv" group-title="KHÁC" tvg-logo="https://i.ibb.co/0Mq88JP/anninhtvbyvovanloc.png", An Ninh TV HD
+#EXTINF:-1 tvg-id="antvhd" group-title="KHÁC" tvg-logo="https://i.ibb.co/0Mq88JP/anninhtvbyvovanloc.png", An Ninh TV HD
 https://livecdn.fptplay.net/sdc/anninhtv_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="quoc_hoi_tv" group-title="KHÁC" tvg-logo="https://i.ibb.co/FzWcfPw/quochoilogobyvovanloc.png", Quốc Hội | 1080p
 http://36.37.252.114:888/Apple/OneTV-106/playlist.m3u8
@@ -488,9 +488,9 @@ http://quangvinh997.duckdns.org:8889/udp/225.1.2.158:30120
 http://quangvinh997.duckdns.org:8889/udp/225.1.1.136:30120
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/X43JVn9/euronewslogobyvovanloc.png", EURO NEWS
 http://36.37.252.114:888/Apple/OneTV-047/playlist.m3u8
-#EXTINF:-1 tvg-id="fox" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/KjFZBbx/foxhdlogobyvovanloc.png", FOX HD | 1080P
+#EXTINF:-1 tvg-id="foxhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/KjFZBbx/foxhdlogobyvovanloc.png", FOX HD | 1080P
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8?
-#EXTINF:-1 tvg-id="fox" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/KjFZBbx/foxhdlogobyvovanloc.png", FOX HD | 720P
+#EXTINF:-1 tvg-id="foxhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/KjFZBbx/foxhdlogobyvovanloc.png", FOX HD | 720P
 http://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="fox_family_movies" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/KWVt4SN/Fox-Family-Movieslogobyvovanloc.png", FOX FAMILY MOVIES | 1080P
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8?
