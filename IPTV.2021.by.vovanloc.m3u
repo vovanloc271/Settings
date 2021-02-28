@@ -147,9 +147,8 @@ http://36.37.252.114:888/Apple/OneTV-112/playlist.m3u8
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/X5f0WmH/THVL1logobyvovanloc.png", Vĩnh Long 1 | 720P
 https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/8XjWcJT/THVL2logobyvovanloc.png", Vĩnh Long 2 | 720P
-https://livecdn.fptplay.net/sdb/vinhlong2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="KÊNH ĐỊA PHƯƠNG"
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/sbJKS9Q/THVL3logobyvovanloc.png", Vĩnh Long 3 | 720P
+https://livecdn.fptplay.net/sdb/vinhlong2_hls.smil/chunklist_b2500000.m3u8"
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/sbJKS9Q/THVL3logobyvovanloc.png", Vĩnh Long 3 | 720P
 https://livecdn.fptplay.net/hda/vinhlong3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="thvl4" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Lv2BffY/THVL4logobyvovanloc.png", Vĩnh Long 4 | 720P
 https://livecdn.fptplay.net/hda/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
