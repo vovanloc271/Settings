@@ -366,10 +366,6 @@ https://livecdn.fptplay.net/sda/vietteen_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/sdc/btv9_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="anvien" group-title="KHÁC" tvg-logo="https://i.ibb.co/FWckt4h/BTV10logobyvovanloc.png", BTV10 - NCM
 https://livecdn.fptplay.net/sda/ncm_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="hanoicab2_youtv" group-title="KHÁC" tvg-logo="https://i.ibb.co/N7LhDxM/youtvlogobyvovanloc.png", YouTV - HanoiCab2
-http://quangvinh997.duckdns.org:8889/udp/225.1.1.207:30120
-#EXTINF:-1 group-title="KHÁC" tvg-logo="https://i.ibb.co/rFR3kDY/mtvvnlogobyvovanloc.png", MTV Vietnam
-http://quangvinh997.duckdns.org:8889/udp/225.1.1.245:30120
 #EXTINF:-1 group-title="KHÁC" tvg-logo="https://i.ibb.co/fnQcVYh/Ninja-Warrior.jpg", SASUKE 9 (Ninja Warrior 9) - Phần 1
 https://dl.dropboxusercontent.com/s/1js6kgesbctxriz/Ninja%20Warrior%209%20%28SASUKE%209%29%20-%20Part%201.mp4?dl=0
 #EXTINF:-1 group-title="KHÁC" tvg-logo="https://i.ibb.co/fnQcVYh/Ninja-Warrior.jpg", SASUKE 9 (Ninja Warrior 9) - Phần 2
@@ -471,14 +467,8 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD/playlist.m3u8
 http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/V9jNktF/CGTNlogobyvovanloc.png",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-id="max_by_hbo" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/xMY0R2p/cinemaxlogobyvovanloc.png", CINEMAX (VietSub)
-http://quangvinh997.duckdns.org:8889/udp/225.1.2.86:30120
 #EXTINF:-1 tvg-id="max_by_hbo" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/xMY0R2p/cinemaxlogobyvovanloc.png", CINEMAX (Quốc Tế)
 http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
-#EXTINF:-1 tvg-id="red_by_hbo" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/hWsGtN7/REDby-HBOlogobyvovanloc.png", Red by HBO
-http://quangvinh997.duckdns.org:8889/udp/225.1.1.93:30120
-#EXTINF:-1 tvg-id="hbo" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/LxjKRfz/hbologobyvovanloc.png", HBO HD (VIETSUB)
-http://quangvinh997.duckdns.org:8889/udp/225.1.4.90:30120
 #EXTINF:-1 tvg-id="hbo" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/LxjKRfz/hbologobyvovanloc.png", HBO HD (Quốc Tế)
 http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/6sFyDLT/HBOHitslogobyvovanloc.png", HBO HITS
@@ -487,12 +477,6 @@ http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/k2sQDfF/HBOSignaturelogobyvovanloc.png", HBO Signature
 http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
-#EXTINF:-1 tvg-id="disney_junior" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/qDbyjz1/Disney-Juniorlogobyvovanloc.png", Disney Junior
-http://quangvinh997.duckdns.org:8889/udp/225.1.1.233:30120
-#EXTINF:-1 tvg-id="disney_channel" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/PzZq565/Disney-Channellogobyvovanloc.png", Disney Channel
-http://quangvinh997.duckdns.org:8889/udp/225.1.2.158:30120
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/qJ5t54v/Dream-Workslogobyvovanloc.png", Dreamworks
-http://quangvinh997.duckdns.org:8889/udp/225.1.1.136:30120
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/X43JVn9/euronewslogobyvovanloc.png", EURO NEWS
 http://36.37.252.114:888/Apple/OneTV-047/playlist.m3u8
 #EXTINF:-1 tvg-id="foxhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/KjFZBbx/foxhdlogobyvovanloc.png", FOX HD | 1080P
