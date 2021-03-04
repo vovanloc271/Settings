@@ -497,8 +497,6 @@ http://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="foxlifehd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/tZJbf62/Foxlifelogobyvovanloc.png", FOX LIFE | 720P
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="france_24" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/m8R3QjW/France24logobyvovanloc.png", France 24 HD
-http://36.37.252.114:888/Apple/OneTV-045/playlist.m3u8
 #EXTINF:-1 tvg-id="france_24" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/m8R3QjW/France24logobyvovanloc.png", France 24 SD
 https://livecdn.fptplay.net/world/france24_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="da_vinci_kids" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/6D31ZYJ/Davincikidslogobyvovanloc.png", Da Vinci Kids
