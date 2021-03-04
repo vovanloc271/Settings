@@ -290,7 +290,7 @@ https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://i.ibb.co/mqLMwjd/vtc9logobyvovanloc.png", VTC9 HD
 https://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc10" group-title="VTC" tvg-logo="https://i.ibb.co/Y3cz3Mk/vtc10logobyvovanloc.png", VTC10 HD
+#EXTINF:-1 tvg-id="vtc10" group-title="VTC" tvg-logo="https://i.ibb.co/Y3cz3Mk/vtc10logobyvovanloc.png", VTC10
 https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc11hd" group-title="VTC" tvg-logo="https://i.ibb.co/6nx456c/vtc11logobyvovanloc.png", VTC11
 https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
@@ -300,7 +300,7 @@ https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdc/vtc13_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 tvg-id="vtc14" group-title="VTC" tvg-logo="https://i.ibb.co/xqmkBGz/vtc14logobyvovanloc.png", VTC14 HD
 https://livecdn.fptplay.net/sdc/vtc14_hls.smil/chunklist_b2800000.m3u8
-#EXTINF:-1 tvg-id="vtc16hd" group-title="VTC" tvg-logo="https://i.ibb.co/ZcZV2Dx/vtc16logobyvovanloc.png", VTC16
+#EXTINF:-1 tvg-id="vtc16hd" group-title="VTC" tvg-logo="https://i.ibb.co/ZcZV2Dx/vtc16logobyvovanloc.png", VTC16 HD
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab1_giai_tri_tv" group-title="VTVCab" tvg-logo="https://i.ibb.co/G5xTrR9/vtvcab1logobyvovanloc.png", VTVCab1 - Vie Giải Trí
