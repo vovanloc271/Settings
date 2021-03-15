@@ -788,8 +788,6 @@ http://news1.live14.com/stream/news1_hi.m3u8
 #EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/nw4jsTM/true4ulogobyvovanloc.png", True4u 24 (Chọn HW)👉
 https://www.livedoomovie.com/02_TRUE4U_480p/chunklist.m3u8
 #EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/rvVdpT3/mono29logobyvovanloc.png", MONO 29 HD
-http://36.37.252.114:888/Apple/OneTV-038/playlist.m3u8
-#EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/rvVdpT3/mono29logobyvovanloc.png", MONO 29 HD (Server 2)
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8 
 #EXTINF:-1 group-title="THÁI LAN" tvg-logo="https://i.ibb.co/HNgct3c/mcothd30logobyvovanloc.png", MCOT 30 HD (Chọn HW)👉
 https://www.livedoomovie.com/02_MCOTHD_720p/chunklist.m3u8
