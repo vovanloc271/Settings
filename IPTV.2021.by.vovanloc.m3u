@@ -486,12 +486,14 @@ http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="max_by_hbo" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/xMY0R2p/cinemaxlogobyvovanloc.png", CINEMAX (Quốc Tế)
 http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
-#EXTINF:-1 tvg-id="max_by_hbo" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/xMY0R2p/cinemaxlogobyvovanloc.png", CINEMAX (VietSub)
+#EXTINF:-1 tvg-id="max_by_hbo" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/xMY0R2p/cinemaxlogobyvovanloc.png", CINEMAX (VIETSUB)
 http://1.54.100.139:4022/udp/225.1.2.86:30120
-#EXTINF:-1 tvg-id="hbo" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/LxjKRfz/hbologobyvovanloc.png", HBO HD (Vietsub)
-http://1.54.100.139:4022/udp/225.1.4.90:30120
+#EXTINF:-1 tvg-id="red_by_hbo" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/xMY0R2p/cinemaxlogobyvovanloc.png", RED BY HBO (VIETSUB)
+http://1.54.100.139:4022/udp/225.1.1.93:30120
 #EXTINF:-1 tvg-id="hbo" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/LxjKRfz/hbologobyvovanloc.png", HBO HD (Quốc Tế)
 http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
+#EXTINF:-1 tvg-id="hbo" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/LxjKRfz/hbologobyvovanloc.png", HBO HD (VIETSUB)
+http://1.54.100.139:4022/udp/225.1.4.90:30120
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/6sFyDLT/HBOHitslogobyvovanloc.png", HBO HITS
 http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/18jrZjw/HBOFamilylogobyvovanloc.webp", HBO FAMILY
