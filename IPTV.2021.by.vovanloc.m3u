@@ -93,7 +93,7 @@ http://cdn.lstv.mediatech.vn/lstvlive/tv1live.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/sQFNSGq/lamdongtvlogobyvovanloc.png", Lâm Đồng
 https://livecdn.fptplay.net/sdc/lamdong_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/CJdkHF1/longantvlogobyvovanloc.png", Long An
-https://live-vthcm.vieon.vn/htv_drm/live/long_an/TV_HD/long_an_480p/chunks.m3u8
+https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/M757dRx/namdinhtvlogobyvovanloc.png", Nam Định
 https://livecdn.fptplay.net/sdc/namdinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/BB5VBMF/ngheantvlogobyvovanloc.png", Nghệ An HD
